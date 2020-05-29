@@ -1,0 +1,19 @@
+{
+    "max_len": 125,
+    "batch_size": 32,
+    "num_labels": 3,
+    "num_epochs": 3,
+    "learning_rate": 1e-5,
+    "train_data_path": "../../Data/jsonl/train.jsonl",
+    "validation_data_path": "../../Data/jsonl/dev.jsonl", 
+    "test_data_path": "",
+    "enable_test": 0,
+    "data_sample": 1,
+    "pretrained_model": "bert-base-multilingual-cased",
+    "model_save_dir": "finetuned-model/",
+    "enable_plotting": 0,
+    "enable_training": 1,
+    "output_dir": "out/",
+    "enable_cuda": 1,
+    "enable_test_export": 0
+}

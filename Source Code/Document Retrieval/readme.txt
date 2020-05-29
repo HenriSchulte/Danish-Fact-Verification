@@ -1,0 +1,1 @@
+This folder contains our Document Retrieval system and an evaluation script.
