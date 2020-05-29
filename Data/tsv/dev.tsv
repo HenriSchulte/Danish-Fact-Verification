@@ -1,0 +1,343 @@
+	claim	label
+0	Timothy Mosley har arbejdet med rapperen Timbaland.	Refuted
+1	Timothy Mosley er kendt som musiker Justin Timberlake.	Refuted
+2	Timbalands rigtige navn er Timothy Mosley.	Supported
+3	Timothy Mosley kender rapperen Timbaland.	Refuted
+4	Timothy Mosley er kendt som rapperen Timbaland.	Supported
+5	Timothy Mosley er fra Timbaland.	Refuted
+6	Den algeriske by Tindouf havde cirka 44.000 indbyggere i 2006.	Supported
+7	Den algeriske by Tindouf havde omtrent 40.000 indbyggere i 2006.	Supported
+8	Den algeriske by Tindouf havde cirka 44.000 indbyggere i 2005.	NotEnoughInfo
+9	Sølvmedaljen ved EM i 1996 var Tjekkiets håndboldslandsholds bedste resultat.	NotEnoughInfo
+10	Sølvmedaljen ved EM i 1990'erne var Tjekkiets fodboldlandsholds bedste resultat.	Supported
+11	Guldmedaljen ved EM i 1996 var Tjekkiets fodboldlandsholds bedste resultat.	Refuted
+12	Sølvmedaljen ved EM i 1996 var Tjekkiets fodboldlandsholds bedste resultat.	Supported
+13	Tom Carroll spiller fodbold for Swansea City.	Supported
+14	Tom Carroll spiller fodbold for Liverpool.	Refuted
+15	Tom Carroll spiller fodbold for Infernal.	Refuted
+16	Tom Carroll er målmand for Swansea City.	NotEnoughInfo
+17	Tom Carroll spiller fodbold for Manchester City.	Refuted
+18	Tomasz Majewski vandt sølv i kuglestød ved OL.	NotEnoughInfo
+19	Tomasz Majewski vandt guld i kuglestød ved OL.	Supported
+20	Tomasz Majewski vandt guld i 100 meter løb ved OL.	Refuted
+21	Tomasz Majewski vandt guld ved OL.	Supported
+22	Gangsterkomedien Tomme Tønner havde premiere i Skandinavien 8. januar 2010.	NotEnoughInfo
+23	Gangsterkomedien Tomme Tønner havde premiere på Erhardsdag 2010.	NotEnoughInfo
+24	Gangsterkomedien Tomme Tønner havde premiere i Norge 8. januar 2010.	Supported
+25	Gangsterkomedien Tomme Tønner havde verdenspremiere 8. januar 2010.	NotEnoughInfo
+26	Den norske gangsterkomedie Tomme Tønner havde premiere i 2010.	Supported
+27	Tonsåsen Station ligger i Edinburgh.	Refuted
+28	Tonsåsen Station ligger i Etnedal.	Supported
+29	Toshiki Koike er en tidligere japansk fodboldspiller.	Supported
+30	Toyota Center er hjemmebane for New York Yankees.	Refuted
+31	Toyota Center er hjemmebane for New England Patriots.	Refuted
+32	Toyota Center er udebane for New York Yankees.	NotEnoughInfo
+33	Toyota Center er udebane for Houston Rockets.	Refuted
+34	Toyota Center er hjemmebane for Houston Rockets.	Supported
+35	Toyota Center er hjemmebane for VM i dressur.	NotEnoughInfo
+36	Tre mand og en lille dame er efterfølger til Tre mand og en baby.	Supported
+37	Tre mand og en lille dame er efterfølger til Den Eneste Ene.	Refuted
+38	Tre mand og en lille dame er efterfølger til Blå Mænd.	Refuted
+39	Trefoldighetskirken ligger centralt i Paris.	Refuted
+40	Trefoldighetskirken ligger centralt i Oslo.	Supported
+41	Trefoldighetskirken ligger centralt Norge's hovedstad.	Supported
+42	Trefoldighetskirken ligger centralt i Stockholm.	Refuted
+43	Trefoldighetskirken ligger i Oslo.	Supported
+44	På TripAdvisor kan man selv skrive anmeldelser af rejserelaterede ting.	NotEnoughInfo
+45	TripAdvisor skriver anmeldelser af rejserelaterede ting.	Refuted
+46	På TripAdvisor kan man finde informationer og anmeldelser af rejserelaterede ting samt et rejseforum.	Supported
+47	TripAdvisor er et rejseforum.	Supported
+48	På TripAdvisor kan man finde informationer og anmeldelser af restauranter og hoteller.	Supported
+49	På TripAdvisor kan man booke rejserelaterede ting.	Refuted
+50	TripAdvisor tilbyder informationer og anmeldelser af rejserelaterede ting samt et rejseforum.	Supported
+51	Troldebjerget blev sendt på TV3 i fem år.	Refuted
+52	Troldebjerget blev sendt på DR1 i to år.	Supported
+53	Troldebjerget blev sendt på TV2 i to år.	Refuted
+54	Troldebjerget blev sendt på DR1 i ti år.	Refuted
+55	Troldebjerget blev sendt på DR1 i tre år.	Refuted
+56	Tunceli er hovedstad i provinsen af samme navn med 382 kommuner.	Refuted
+57	Der ligger flere landsbyer omkring Tunceli.	Supported
+58	Tunceli er hovedstad i en landlige provins.	Supported
+59	Tunceli provinsen sammensættes af hovedstaden Tunceli og 382 landsbyer.	Supported
+60	Tunceli er hovedstad i provinsen af samme navn med 382 indbyggere.	Supported
+61	Tunceli er hovedstad i en urbane provins.	NotEnoughInfo
+62	Tunceli er hovedstad i provinsen af samme navn, hvortil er i alt 382 tilhørende landsbyer.	Supported
+63	Tupolev Tu-144 var et sovjetisk spisested.	Refuted
+64	Tupolev Tu-144 var et russisk overlydsfly.	Supported
+65	Tupolev Tu-144 var et sovjetisk overlydsfly.	Supported
+66	Tupolev Tu-144 var en sovjetisk ubåd.	Refuted
+67	Tupolev Tu-144 var et japansk overlydsfly.	Refuted
+68	Den danske astronom Tycho Brahe fik et nedslagskrater på Pluto opkaldt efter ham.	NotEnoughInfo
+69	Den danske astronom Tycho Brahe fik et nedslagskrater på en planet opkaldt efter ham.	Supported
+70	Den danske astronom Tycho Brahe fik et nedslagskrater på Mars opkaldt efter ham.	Supported
+71	Der er et nedslagskrater på Mars opkaldt efter en dansk astronom.	Supported
+72	Grundlæggeren af moderne astronomi fik et nedslagskrater på Mars opkaldt efter ham.	NotEnoughInfo
+73	Den danske astronom Thyge Brahe fik et nedslagskrater på Mars opkaldt efter ham.	Supported
+74	Tyntesfield var ejet af Gibbs-klanen indtil Richard Gibbs' død i 2001.	Supported
+75	Tyntesfield var ejet af Gibbs-familien indtil Richard Gibbs' død.	Supported
+76	Tyntesfield var ejet af Gibbs-familien indtil Richard Gibbs' død i 2001.	Supported
+77	Tyntesfield var ejet af Gibbs-familien indtil Debbie Gibbs' død i 2001.	Refuted
+78	De tyske østområder blev underlagt Polen og Sovjetunionen efter 1945.	Supported
+79	De tyske østområder blev underlagt Polen og Sovjetunionen i 1900-tallet.	Supported
+80	De tyske østområder blev underlagt Polen og Sovjetunionen efter anden verdenskrig.	NotEnoughInfo
+81	Tämä Ikuinem Talvi er den fjerde demo af folk metalbandet Moonsorrow.	Supported
+82	I 2014 grundlagde Dansk Industri og CO-Industri en tænketank med fokus på den europæiske union.	Supported
+83	I 2014 grundlagde to organisationer en tænketank med fokus på EU.	Supported
+84	I 2014 grundlagde Dansk Industri og CO-Industri en organisation med fokus på EU.	Supported
+85	I 2014 grundlagde Dansk Industri og CO-Industri en rådgivningsorganisation med fokus på EU.	Supported
+86	I 2014 grundlagde Dansk Industri og CO-Industri en tænketank med fokus på EU.	Supported
+87	Tæthedsbølgeteori er en teori for arme i spiralgalakser.	Supported
+88	Tønnes Bekker-Nielsen er dansker.	Supported
+89	Tønnes Bekker-Nielsen er dansk-lærer.	Refuted
+90	Tønnes Bekker-Nielsen er historiker.	Supported
+91	Tønnes Bekker-Nielsen studerede historie.	Supported
+92	Bispen Niels Clausen skænkede malerier af en dommedagsscene fra 1501 til Vor Frue Kirke.	Refuted
+93	Bispen Niels Clausen skænkede malerier af en dommedagsscene fra 1501 til Udbyneder Kirke.	Supported
+94	Bispen Niels Clausen skænkede malerier af Adam og Eva fra 1501 til Udbyneder Kirke.	Refuted
+95	Bispen Niels Clausen skænkede gummistøvler fra 1501 til Udbyneder Kirke.	Refuted
+96	Udenrigsministeriet har eksisteret siden 1800-tallet.	Supported
+97	Udenrigsministeriet blev skabt i 1848.	Supported
+98	Udenrigsministeriet har eksisteret siden 1848.	Supported
+99	Udenrigsministeriet har eksisteret siden inden 1900-tallet.	Refuted
+100	Udvidelsessoklen bruges til at gøre en computer bedre.	Supported
+101	Udvidelsessoklen kan bruges til at forøge computerens funktionaliteter. 	Supported
+102	Udvidelsessoklen bruges til at forværre computerens funktionaliteter.	Refuted
+103	Uli Stielke vandt EM-titlen med Vesttysklands landshold, hvor han spillede på midtbanen.	Supported
+104	Uli Stielke vandt EM-titlen med Vesttysklands landshold, hvor han spillede som forsvarer og midtbanespiller.	Supported
+105	Uli Stielke vandt EM-titlen med Tysklands landshold, hvor han spillede som forsvarer og midtbanespiller.	Supported
+106	Uli Stielke vandt OL-titlen med Vesttysklands landshold, hvor han spillede som forsvarer og midtbanespiller.	NotEnoughInfo
+107	Uli Stielke vandt EM-titlen med Vesttysklands landshold, hvor han spillede som forsvar.	Supported
+108	Uli Stielke vandt EM-titlen med Vesttysklands landshold, hvor han spillede som målmand.	Refuted
+109	Undervandsbådene bruges i 2. verdenskrig.	NotEnoughInfo
+110	Undervandsbåden er et militærskib.	Refuted
+111	Undervandsbåden bliver også kaldt for ubåd, og bliver brugt til militære formål.	Supported
+112	Undervandsbåden bliver brugt til civile formål.	NotEnoughInfo
+113	Unirally er et spil for en spillekonsol fra Nintendo.	Supported
+114	Unirally er et computerspil til SNES.	Supported
+115	Unirally er et computerspil til Sega Dreamcast.	NotEnoughInfo
+116	Unirally er et computerspil til Tesla Model 3.	Refuted
+117	Unirally er et computerspil til Super Nintendo Entertainment System.	Supported
+118	Universidad del Bío-Bío har hovedcampussen i Concepción i Chile.	Supported
+119	Universidad del Bío-Bío har campus i Concepión i Chile.	Supported
+120	Universidad del Bío-Bío har hovedcampus i Chile.	Supported
+121	En urafstemning er den ældste form af valg.	NotEnoughInfo
+122	Ved en urafstemning stemmer alle ved direkte valg.	Supported
+123	Ved en urafstemning stemmes gennem repræsentanter.	Refuted
+124	Urula er en flod som løber ud af den danske sø Sperillen.	Refuted
+125	Urula er en flod som løber ud af den franske sø Sperillen.	Refuted
+126	Urula er en flod som løber ud af den norske sø Sperillen.	Supported
+127	Usopp er skarpskytten og opfinderen i Jubbada Hoose.	NotEnoughInfo
+128	Usopp er skarpskytten og opfinderen i Jasminrevolutionen.	NotEnoughInfo
+129	Usopp er cricketspiller i Stråhattene.	Refuted
+130	Usopp er skarpskytten og opfinderen i Stråhattene. 	Supported
+131	Usopp er skarpskytten og videnskabsmand i Stråhattene.	NotEnoughInfo
+132	I 1970'erne udviklede Peugeot, Renault og Sikorsky en benzinmotor kaldet V6 PRV-motor.	Refuted
+133	I 1970'erne udviklede Peugeot, Renault og Volvo en dieselmotor kaldet V6 PRV-motor.	Refuted
+134	I 1970'erne udviklede tre franske firmaer en benzinmotor kaldet V6 PRV-motor.	Refuted
+135	V6 PRV-motoren er udviklet i samarbejde mellem Volvo, Renault og Peugot.	Supported
+136	V6 PRV-motoren er udviklet i samarbejde mellem tre europæiske bilproducenter.	Supported
+137	I 1970'erne udviklede Peugeot, Renault og Volvo en benzinmotor til helikoptere kaldet V6 PRV-motor.	Refuted
+138	I 1970'erne udviklede Peugeot, Renault og Volvo en benzinmotor kaldet V6 PRV-motor.	Supported
+139	VM i fodbold for kvinder 2003 blev afviklet i USA.	Supported
+140	VM i fodbold for kvinder 2003 blev afviklet i Nordamerika.	Supported
+141	VM i fodbold for kvinder 2010 blev afviklet i USA.	NotEnoughInfo
+142	VM i fodbold for kvinder 2003 blev afviklet i Amerika.	Supported
+143	VM i fodbold for kvinder 2003 blev afviklet i England.	Refuted
+144	VM i skak 1929 var en match mellem en russer som boede i Frankrig og en ukrainer som var emigreret til Tyskland.	Supported
+145	VM i skak 2007 var en match mellem en russer som boede i Frankrig og en ukrainer som var emigreret til Tyskland.	NotEnoughInfo
+146	VM i skak 1929 var en match mellem en russer som boede i Frankrig og en ukrainer som var emigreret til Slagelse.	Refuted
+147	VM i skak 1929 var en match mellem en russer som boede i Frankrig og en polak som var emigreret til Tyskland.	Refuted
+148	VM i skak 1929 var en match mellem en russer som boede i Polen og en ukrainer som var emigreret til Tyskland.	Refuted
+149	Vagabonden handler om en håndværker som indvikles i en drabssag.	Refuted
+150	Vagabonden handler om svenske migranter som indvikles i politisager.	Refuted
+151	Vagabonden handler om en skærsliber-original som indvikles i et tæppe.	Refuted
+152	Vagabonden handler om en skærsliber-original som indvikles i en drabssag.	Supported
+153	Valenciennes ligger 8000 m fra Bruxelles.	Refuted
+154	Valenciennes ligger mindre end 100km fra Bruxelles.	Supported
+155	Valenciennes ligger 80 km fra Bruxelles.	Supported
+156	Valenciennes ligger mere end 100km fra Bruxelles.	Refuted
+157	I midten af 1600-tallet flyttede et par tusinde valloner til Sverige for at arbejde i jernværker.	Supported
+158	Vand har den kemiske formel CO2.	Refuted
+159	Vand har den kemiske formel H20.	Supported
+160	Vand har den kemiske formel Au.	Refuted
+161	Vand har den fysiske formel H20.	NotEnoughInfo
+162	Vandstjerner er blomstrende planter som er udbredt over hele verden især i det sydligre Afrika.	Refuted
+163	Vandstjerner er blomstrende planter som er udbredt over hele verden udtagen det sydlige Afrika.	Supported
+164	Vandstjerner er udbredt over hele verden udtagen det sydlige Afrika.	Supported
+165	Vandstjerner er blomstrende planter som hovedsagligt er i Afrika.	Refuted
+166	Vandstjerner er blomstrende planter som er udbredt over hele verden udtagen det sydlige Sydkorea.	Refuted
+167	Betegnelsen 'vanris' har ikke noget med vand at gøre.	Supported
+168	Betegnelsen 'vanris' har ikke noget med vin at gøre.	Supported
+169	Betegnelsen 'vanris' har ikke noget med sodavand at gøre.	Supported
+170	Veere er en by på en hollandsk ø i Zeeland.	Supported
+171	Vegetarisme bygger på, at mennesket udelukkende ernærer sig uden nogen form for dyreprodukter.	NotEnoughInfo
+172	Vegetarisme bygger på, at mennesket udelukkende ernærer sig af planteføde.	Supported
+173	Vegetarisme bygger på, at mennesket udelukkende ernærer sig af dyrekød.	Refuted
+174	Vegetarisme bygger på, at mennesket blandt andet ernærer sig af planteføde.	Supported
+175	Venstresocialisternes Ungdom blev oprettet for at styrke rekruttering til VSU.	Refuted
+176	Venstresocialisternes Ungdom blev oprettet for at styrke rekruttering af unge til VSU.	Refuted
+177	Venstresocialisternes Ungdom blev oprettet for at styrke rekruttering til Venstre i folketinget.	Refuted
+178	Vestnes er en by i Norge.	Refuted
+179	Vestnes er en kommune i Amerika.	Refuted
+180	Vestnes er en kommune i Norden.	Supported
+181	Vestnes er en kommune i Norge.	Supported
+182	Vestnes er en kommune i Europa.	Supported
+183	Efter Victor Sjöström havde bidraget til en international anerkendelse for svensk filmindustri, flyttede han til USA for at arbejde som biskop.	Refuted
+184	Efter Victor Sjöström havde bidraget til en international anerkendelse for svensk filmindustri, flyttede han til Frankrig for at arbejde som filminstruktør.	Refuted
+185	Efter Victor Sjöström havde bidraget til en international anerkendelse for svensk filmindustri, flyttede han til USA for at arbejde som fodboldspiller.	Refuted
+186	Efter Victor Sjöström havde bidraget svensk filmindustri, flyttede han til USA for at arbejde som filminstruktør.	Supported
+187	Efter Victor Sjöström havde bidraget til en international anerkendelse for svensk filmindustri, flyttede han til USA for at arbejde som filminstruktør.	Supported
+188	Den australske delstat Victoria er Australiens næstmindste og grænser mod det Tasmanske Hav.	Supported
+189	Vida Movahed protesterede mod religiøs paternalisme i Iran.	Refuted
+190	Vida Movahed protesterede mod at kvinder skal bære hijab i det offentlige rum i Iran.	Supported
+191	Vida Movahed protesterede mod at kvinder skal bære hijab i det offentlige rum i sit land.	Supported
+192	Vida Movahed protesterede mod at kvinder skal bære våben i det offentlige rum i Iran.	Refuted
+193	Vida Movahed understøttede at kvinder skal bære hijab i det offentlige rum i Iran.	Refuted
+194	Vida Movahed protesterede for kvinders rettigheder i Iran.	Supported
+195	Vila Nova de Gaia er en by i den nordlige Portugal, som ligger ved bredden af floden Douro.	Supported
+196	Vila Nova de Gaia ligger i Portugals Nordregion, som ligger ved bredden af floden Douro.	Supported
+197	Vila Nova de Gaia ligger ved Portugals nordkyst.	NotEnoughInfo
+198	Vila Nova de Gaia er en by i den nordlige Portugal.	Supported
+199	Vila Nova de Gaia ligger ved bredden af en flod med kilde i Spanien.	Refuted
+200	Vila Nova de Gaia ligger ved bredden af en portugisisk flod.	Supported
+201	Vila Nova de Gaia ligger i Portugals Nordregion, som ligger ved bredden af floden Ebro.	Refuted
+202	Villanova Truschedu kaldes også Biddanòa Truschèdu på et andet sprog.	Supported
+203	Villanova Truschedu kaldes Villa-Villa-Kulla på sardisk.	Refuted
+204	Villanova Truschedu kaldes Biddanòa Truschèdu på sardisk.	Supported
+205	Vimmelskaftet er et sted i København.	Supported
+206	Vimmelskaftet er en gade i London.	Refuted
+207	Vimmelskaftet er en gade i København.	Supported
+208	Vimmelskaftet er et H.C. Andersen eventyr.	Refuted
+209	Innsbruck var afholdssted for vinter-OL 1964.	Supported
+210	I 1964 blev vinter OL afholdt i Alperne.	NotEnoughInfo
+211	I 1964 blev vinter OL afholdt i Innsbruck, Østrig.	Supported
+212	I 1964 blev vinter OL afholdt i Ipswich, Australien.	Refuted
+213	I 1964 blev vinter OL afholdt i Zombieland.	Refuted
+214	Afholdssted af vinter-OL 1964 havde ingen muligheder for vintersport.	Refuted
+215	Viuf Sogn ligger i Kolding.	NotEnoughInfo
+216	Viuf Sogn ligger i Kolding Provsti.	Supported
+217	Viuf Sogn ligger i Jylland.	NotEnoughInfo
+218	Volkswagen Bora er en mellemklassebil baseret på Volkswagen Golf IV.	Supported
+219	Volkswagen Bora er en bil baseret på Volkswagen Golf.	Supported
+220	Volkswagen Bora er en mellemklassebil baseret på Audi A5.	Refuted
+221	Volusia County ligger ved Atlanterhavet.	NotEnoughInfo
+222	Volusia County ligger imellem St. Johns-floden og Atlanterhavet.	Supported
+223	Volusia County ligger meget langt væk fra Atlanterhavet.	NotEnoughInfo
+224	Strækningen af Vuelta a España 2011 er 3300 km lang.	Supported
+225	Strækningen af Vuelta a España 2011 er omtrent 3000 km lang.	Supported
+226	Strækningen af Vuelta a España 2011 er over 3000 km lang.	Supported
+227	Västerdalälven danner Sveriges tredjestørste flod ved sammenløbet med Österdalälven. 	Supported
+228	Västerdalälven danner Nordens tredjestørste flod ved sammenløbet med Österdalälven.	NotEnoughInfo
+229	Västerdalälven danner Sveriges tredjestørste flod ved mødet med Österdalälven.	Supported
+230	Västerdalälven danner Sveriges tredjestørste sø ved sammenløbet med Österdalälven.	Refuted
+231	Västergötlands museum drives af en region i Sverige.	NotEnoughInfo
+232	Västergötlands museum har en udstilling om middelalderen.	Supported
+233	Västergötlands museum har en udstilling om vikingetid.	NotEnoughInfo
+234	Västergötlands museum drives af Västra Götalandsregionen.	Supported
+235	Västergötlands museum har kun midlertidige udstillinger.	Refuted
+236	Den permanente udstilling i Västergötlands museum viser en svensk by i middelalderen.	Supported
+237	Västergötlands museums permanent udstilling viser Skara i middelalderen.	Supported
+238	Den permanente udstilling i Västergötlands museum viser Skara i middelalderen.	Supported
+239	United States Championship er blevet forsvaret i WWE siden 2003.	Supported
+240	United States Championship er blevet afholdt i World Wrestling Entertainment siden 2003.	Supported
+241	Amerikas titel er blevet forsvaret i World Wrestling Entertainment siden 2003.	NotEnoughInfo
+242	United States Championship er blevet forsvaret i World Wrestling Entertainment siden 2003.	Supported
+243	USC er blevet forsvaret i World Wrestling Entertainment siden 2003.	Supported
+244	Warszewobakkerne ligger i det vestlige Østrig.	Refuted
+245	Warszewobakkerne ligger i det vestlige Polen.	Supported
+246	Warszewobakkerne ligger i det nordlige Polen.	Refuted
+247	Wengernalpbahn er en schweizisk tandhjulsbane med en sporvidde på 800mm.	Supported
+248	Wengernalpbahn er en schweizisk tandhjulsbane med en sporvidde på 80cm.	Supported
+249	Wengernalpbahn er en schweizisk tandhjulsbane med en længde på 80cm.	Refuted
+250	What If We var med i Eurovision Song Contest 2009.	Supported
+251	What If We var med i Dansk Melodi Grand Prix 2009.	Refuted
+252	What If We var med i Eurovision Song Contest 2009 for Sverige.	Refuted
+253	What If We var med i Eurovision Song Contest 2009 for Malta.	Supported
+254	Who Killed Amanda Palmer er en reference til TV-serien How I Met Your Mother.	Refuted
+255	Who Killed Amanda Palmer er en reference til filmen Twin Peaks.	Refuted
+256	Who Killed Amanda Palmer er en reference til TV-serien FRIENDS.	Refuted
+257	Who Killed Amanda Palmer er en reference til TV-serien Twin Peaks.	Supported
+258	Widukind ledte kampen ved frankernes angreb på det saksiske område.	Supported
+259	Widukind ledte kampen ved Frankrigs angreb på det saksiske område.	Supported
+260	Widukind var pacifist.	NotEnoughInfo
+261	Widukind var leder af det saksiske armé.	Supported
+262	Widukind ledte saksernes kamp mod Karl den Store.	Refuted
+263	Widukind ledte kampen ved TV-kanalen MTV på det saksiske område.	Refuted
+264	Wilhelm Heuer var en tysk kobberstikker som arbejdede i Tyskland.	NotEnoughInfo
+265	Wilhelm Heuer var en tysk kobberstikker som arbejdede i Danmark.	Supported
+266	Wilhelm Heuer var en tysk kobberstikker som ikke arbejdede i Tyskland.	NotEnoughInfo
+267	Wilhelm Stieda blev født i London og døde i Leipzig.	Refuted
+268	Wilhelm Stieda blev født i Riga og døde i Leipzig.	Supported
+269	Wilhelm Stieda blev født i Riga og døde i København.	Refuted
+270	Wilhelm Stieda blev født i Riga og døde også i Riga.	Refuted
+271	William Jones blev under 90 år gammel.	Supported
+272	William Jones blev mere end 50 år gammel.	Supported
+273	William Jones er over 90 år gammel.	Refuted
+274	William Jones blev 89 år gammel.	Supported
+275	Både Willy Planckaert og hans brødre er berømte cykelryttere.	Supported
+276	Både Willy Planckaert og hans brødre er berømte fodboldspillere.	Refuted
+277	Både Willy Planckaert og hans brødre er berømte biskopper.	Refuted
+278	Både Willy Planckaert og hans søn er berømte cykelryttere.	NotEnoughInfo
+279	Både Willy Planckaert og hans brødre er berømte sangere.	Refuted
+280	Yes Man er en film med Jim Carrey i hovedrollen.	Supported
+281	Yes Man er en film med Jim Carrey på rollelisten.	Supported
+282	Yes Man er en TV-serie med Jim Carrey i hovedrollen.	Refuted
+283	Yes Man er en film med Will Smith i hovedrollen.	Refuted
+284	Yosemite National Park ligger i det østlige Californien.	Supported
+285	Yosemite National Park ligger mod østkysten.	Supported
+286	Yosemite National Park ligger i Californien.	Supported
+287	Yosemite National Park ligger i det nordlige Californien.	Refuted
+288	Ystad Saltsjöbad hotellet har 140 værelser.	Supported
+289	Ystad Saltsjöbad hotellet udlejer 140 værelser.	Supported
+290	Ystad Saltsjöbad hotellet har 140 medarbejdere.	NotEnoughInfo
+291	Ystad Saltsjöbad hotellet har plads til mindst 140 gæster.	Supported
+292	Ystad Saltsjöbad hotellet har 140 senge.	NotEnoughInfo
+293	Ytri-Rangá bruges til fiskeri.	Supported
+294	Ytri-Rangá bruges til fremstilling af nøgler.	Refuted
+295	Ytri-Rangá bruges til torskfiskeri.	Refuted
+296	Ytri-Rangá er en krop of vand som er over 55km lang.	Refuted
+297	Ytri-Rangá er over 55km lang og bliver bl.a. brugt til laksefiskeri.	Supported
+298	Yttrium har det kemiske symbol O.	Refuted
+299	Yttrium har det kemiske symbol Y.	Supported
+300	Yttrium har det kemiske symbol Z.	Refuted
+301	Yusuke Tanaka spiller for den japanske fodboldklub Fagiano Okayama.	Supported
+302	Yusuke Tanaka spiller for den japanske fodboldklub Fagioano Yokohama.	Refuted
+303	Yusuke Tanaka er en japansk fodboldspiller.	Supported
+304	Yusuke Tanaka har aldrig spillet i Japan.	Refuted
+305	Yusuke Tanaka spiller for den japanske fodboldklub Sagrada Familia.	NotEnoughInfo
+306	Yuzo Iwakami spiller for den japanske fodboldklub Matsumo Yamaga FC.	Supported
+307	Emma Stone var med i en horror-komedie.	Supported
+308	Emma Stone, Jesse Eisenberg og Abigail Breslin medvirkede i horror-komedien Zombieland som skuespillere.	Supported
+309	Emma Stone, Jesse Eisenberg og Abigail Breslin medvirkede i horror-komedien Zombieland.	Supported
+310	Horror-komedien Zombieland har Jesse Eisenberg, Emma Stone, Abigail Breslin, med viderede som instruktører.	Refuted
+311	Horror-komedien Zombieland har Jesse Eisenberg, Emma Stone, Abigail Breslin, med viderede som medvirkende.	Supported
+312	Dokumentarfilmen Zombieland har Jesse Eisenberg, Emma Stone, Abigail Breslin, med viderede som medvirkende.	Refuted
+313	Abigail Breslin har spillet i samme film som Jesse Eisenberg.	Supported
+314	Zurp Ahtamn er en tidligere tennisspiller fra Iran.	Refuted
+315	Zurp Ahtamn er en dansk thriller film.	Refuted
+316	Zurp Ahtamn er en dansk dokumentarfilm.	Supported
+317	Zurp Ahtamn er ikke fra Danmark.	Refuted
+318	Zurp Ahtamn er en dansk film.	Supported
+319	Zurp Ahtamn er en dansk film om dyr.	NotEnoughInfo
+320	Zvezda Zvenigorod har Brad Pitt som idol.	NotEnoughInfo
+321	Zvezda Zvenigorod har Brad Pitt som træner.	NotEnoughInfo
+322	Zvezda Zvenigorod har Jevgenij Trefilov som kæledyr.	Refuted
+323	Zvezda Zvenigorod har Jevgenij Trefilov som træner.	Supported
+324	Åbenråvej strækker sig fra Sønderjyske Motorvej til Kiskelund.	Supported
+325	Åbenråvej er en motortrafikvej der går fra Sønderjyske Motorvej til Kiskelund.	Supported
+326	Åbenråvej er en gågade.	NotEnoughInfo
+327	Åbenråvej er en motortrafikvej i Jylland.	Supported
+328	Åsted kirke ligger 20km fra København.	NotEnoughInfo
+329	Åsted kirke ligger mere end 10km væk fra Frederikshavn.	Refuted
+330	Åsted kirke ligger mindre end 10km væk fra Frederikshavn.	Supported
+331	Åsted kirke ligger 10km væk fra Frederikshavn.	Refuted
+332	Den officielle bolig for den franske præsident ligger tæt ved Eiffel Tårnet.	NotEnoughInfo
+333	Den officielle bolig for den franske præsident ligger tæt ved Champs-Élysées.	Supported
+334	Den officielle bolig for den franske præsident ligger tæt ved Louvre.	NotEnoughInfo
+335	Den uofficielle bolig for den franske præsident ligger tæt ved Champs-Élysées.	NotEnoughInfo
+336	Den officielle bolig for den franske præsident ligger i Paris.	Supported
+337	Den officielle bolig for den franske konge ligger tæt ved Champs-Élysées.	NotEnoughInfo
+338	Øresæler har ikke ører.	Refuted
+339	Øresæler har store ydre ører.	Refuted
+340	Øresæler har små ydre ører.	Supported
+341	Øresæler har små ører.	Supported

@@ -1,0 +1,679 @@
+	claim	label
+0	Peter Lawrence Buck er guitarist i det amerikanske band R.E.M.	Supported
+1	Peter Lawrence Buck er trommeslager i det amerikansk band R.E.M.	Refuted
+2	Peter Turkson kommer ikke fra Ghana.	Refuted
+3	Peter Turkson er en mand.	NotEnoughInfo
+4	Peter Turkson kommer fra Ghana.	Supported
+5	Peter Turkson kommer fra Afrika.	Supported
+6	Peter Dain Suber er pilot.	Refuted
+7	Peter Dain Suber er filosof.	Supported
+8	Peter Dain Suber er en død filosof.	NotEnoughInfo
+9	Peter Dain Suber er levende filosof.	NotEnoughInfo
+10	Tysk maler Peter von Cornelius er bror til komponist Peter Cornelius.	Refuted
+11	Tysk maler Peter von Cornelius er bror til forfatter Peter Cornelius.	Refuted
+12	Tuborgs grundlægger var muslim.	Refuted
+13	Tuborgs grundlægger var en jøde.	Supported
+14	Philip Heyman var jøde.	Supported
+15	Tuborgs grundlægger var kristen.	Refuted
+16	Philip Heyman, grundlægger af Tuborg, var jøde.	Supported
+17	Phoenix undersøger hvis miljøet på Mars kan understøtte liv.	Supported
+18	Phoenix undersøger hvis miljøet på Mars kan understøtte OL.	Refuted
+19	Phoenix undersøger hvis Mars kan understøtte liv.	Supported
+20	Phoenix undersøger hvis miljøet på Saturn kan understøtte liv.	Refuted
+21	Phoenix undersøger hvis miljøet på Mars kan understøtte menneskeliv.	NotEnoughInfo
+22	Pieter Mertens cyklede for Astana.	Refuted
+23	Pieter Mertens cyklede for Team Easy-On.	Refuted
+24	Pieter Mertens cyklede for Predictor-Lotto.	Supported
+25	Bandet Pixeltan blev dannet i 2002.	Refuted
+26	Bandet Pixeltan blev opløst i 2001.	NotEnoughInfo
+27	Bandet Pixeltan blev dannet i 2011.	Refuted
+28	Bandet Pixeltan blev dannet i 2001.	Supported
+29	Planter er en organisme som får energi fra solen.	Supported
+30	Planter kan ikke ændrer deres form.	Refuted
+31	Planter er en organisme.	Supported
+32	Planter er en organisme som kan forme sig.	Supported
+33	Platåberget er et fjeld ved Longyearbyen på Spitsbergen.	Supported
+34	Polen deler landegrænser med syv andre lande og derudover to søgrænser med Slagelse og Skælskør.	NotEnoughInfo
+35	Polen deler landegrænser med syv andre lande og derudover to søgrænser med Bornholm og Estland.	NotEnoughInfo
+36	Polen dele både lande- og søgrænser med andre lande.	Supported
+37	Polen deler landegrænser med syv andre lande og derudover to søgrænser med Danmark og Sverige.	Supported
+38	Polen deler landegrænser med en håndfuld lande og søgrænser med Danmark og Sverige.	Supported
+39	En Politistation er et centrum for politiets administration.	Supported
+40	En Politistation er et centrum for PETs administration.	NotEnoughInfo
+41	En Politistation er et centrum for politiet.	Supported
+42	Polybos var Voldemorts far.	NotEnoughInfo
+43	Polybos var Ødipus' søn.	Refuted
+44	Polybos var Ødipus' bedste ven.	Refuted
+45	Polybos var Ødipus' svigerfar.	Refuted
+46	Polybos var Ødipus' plejefar.	Supported
+47	Ekspanderet polystyren er en polymer som findes i vin.	Refuted
+48	Ekspanderet polystyren er en polymer som findes i cykelhjelme.	Supported
+49	Ekspanderet polystyren er en polymer som findes bl.a. i isolering, kofangere og cykelhjelme.	Refuted
+50	I tillæg til sit franske navn bærer byen Prats-de-Sournia også et occitansk og catalansk navn.	Supported
+51	Pratt & Whitney R-2000 Twin Wasp blev udviklet til kargofly.	NotEnoughInfo
+52	Pratt & Whitney R-2000 Twin Wasp blev udviklet til civilfly.	Refuted
+53	Pratt & Whitney R-2000 Twin Wasp blev udviklet til militærfly.	Supported
+54	Alle farve kan dannes på baggrund af rød, blå og gul.	Supported
+55	Alle farver kan dannes på baggrund af hvid.	NotEnoughInfo
+56	Alle farve kan dannes på baggrund af primærfarver.	Supported
+57	Pro-Movec A/S sælger cykeludstyr.	NotEnoughInfo
+58	Pro-Movec A/S både sælger og designer el-cykler.	Supported
+59	Pro-Movec A/S sælger el-cykler.	Supported
+60	Pro-Movec A/S både sælger og designer skoletasker.	Refuted
+61	Pro-Movec A/S både sælger og designer computere.	Refuted
+62	Project CARS blev udgivet i 2010'erne.	NotEnoughInfo
+63	Project CARS blev udgivet i 2015.	NotEnoughInfo
+64	Project CARS blev aldrig udgivet.	NotEnoughInfo
+65	Project CARS blev udgivet i 2016.	NotEnoughInfo
+66	Albummet Promise blev udgivet af Hugo Helmig i 2018.	Supported
+67	Promise er et album fra en dansk sanger.	Supported
+68	Albummet Promise blev udgivet af Sam Jaffe i 2018.	Refuted
+69	Promise blev udgivet af Thomas Helmigs søn.	NotEnoughInfo
+70	Promise er et album fra Hugo Helmig.	Supported
+71	Promise er debutalbummet fra Hugo Helmig.	Supported
+72	Provenceposten magasinet bliver ikke udgivet i 2020.	Supported
+73	Provenceposten magasinet blev udgivet i en periode fra 2005 til 2008.	Supported
+74	Provenceposten magasinet blev udgivet i en periode fra 2003 til 2020.	Refuted
+75	Præsto Sogn ar altid ligget i Bårse Herred.	Refuted
+76	Præsto Sogn har aldrig ligget i Bårse Herred.	Refuted
+77	Før 1970 lå Præstø Sogn i Bårse Herred.	Supported
+78	Psykologi er studiet af menneskets psykiske processer.	Supported
+79	Psykologi er studiet af menneskets psykiske processer samt adfærd.	Supported
+80	Psykologi er studiet af menneskets psykiske processer og adfærd.	Supported
+81	Pudenelliker vokser dårligst i fuld sol og kalkholdig jord.	Refuted
+82	Pudenelliker vokser bedst i begrænset sol.	Refuted
+83	Pudenelliker vokser bedst i fuld sol.	Supported
+84	Pudenelliker vokser bedst i fuld sol og kalkholdig jord. 	Supported
+85	Pudenelliker vokser bedst i fuld sol og vitaminholdig jord.	NotEnoughInfo
+86	Pudenelliker vokser bedst i kalkholdig jord.	Supported
+87	Adam Sandler og Emilty Watson spiller med i samme skuespil.	NotEnoughInfo
+88	Adam Sandler og Emily Watson spiller med i den samme film.	Supported
+89	Adam Sandler og Emily Watson spiller ikke med i den samme film.	Refuted
+90	Pygmæer er en gruppe af mennesker med en højde fra 1,2 m til 1,5 m.	Supported
+91	Pygmæer er en gruppe af mennesker med en højde fra 120 cm til 150 cm.	Supported
+92	Pygmæer er en gruppe af mennesker med en højde fra 50 cm til 100 cm.	Refuted
+93	Pygmæer er en gruppe af mennesker med en højde fra 100 cm til 150 cm.	Refuted
+94	Pygmæer er en gruppe af mennesker med en højde fra 1200 mm til 1500 mm.	Supported
+95	Hvis et menneske er mellem 120 og 150 cm, er det betegnet som en pygmæ.	NotEnoughInfo
+96	Qassiarsuk markerer det sted Erik den Røde slog sig ned i 1931.	Refuted
+97	Qassiarsuk markerer det sted Erik den Røde slog sig ned i 982.	Supported
+98	Qassiarsuk markerer det stykke land Erik den Røde slog sig ned på i 982.	Supported
+99	Qassiarsuk markerer det sted Gorm Den Gamle slog sig ned i 982.	Refuted
+100	Dokumentarfilmen Questions, in Love er fra 2004.	Supported
+101	Dokumentarfilmen Questions, in Love er fra 2000'erne.	Supported
+102	Dokumentarfilmen Questions, in Love er fra 2010.	Refuted
+103	Dokumentarfilmen Questions, in Love er ikke fra 2004.	Refuted
+104	En rabatkode bliver typisk indtastet under når man starter sin bestilling.	NotEnoughInfo
+105	En rabatkode bliver altid indtastet under betaling.	Refuted
+106	En rabatkode bliver typisk indtastet under betaling og kan være i form af frifragt.	Supported
+107	En rabatkode bliver typisk indtastet under betaling og kan være i form af procenter.	Supported
+108	I 1921 var der raceoptøjer mellem sorte og hvide i Oklahoma.	Supported
+109	I 1921 var der fodboldkampe mellem sorte og hvide i Oklahoma.	NotEnoughInfo
+110	Der var raceoptøjer mellem sorte og hvide i Oklahoma.	Supported
+111	Der var raceoptøjer i Oklahoma i det 20. århundrede.	Supported
+112	I 1921 var der racisme i Oklahoma.	Supported
+113	Radio24syv blev ikke støttet af Berlingske Media efter den 31. oktober 2019.	Supported
+114	Radio24syv blev støttet af Berlingske Media indtil oktober 2019.	Refuted
+115	Radio24syv blev støttet af Berlingske Media i april 2019.	Supported
+116	Radon er en farveløs ædelgas der dannes fra radiums hendfald.	Supported
+117	Radon er en farveløs ædelgas der dannes fra radiums råd.	Refuted
+118	Radon er en farveløs ædelgas der dannes fra hendfald.	Supported
+119	Ralf Edström var tidliger svensk fodbold-angriber.	Supported
+120	Ralf Edström var tidligere norsk fodbold-angriber.	Refuted
+121	Ralf Edström var tidligere svensk fodbold-målmand.	Refuted
+122	Ralf Edström var engang foldbold-angriber for Sverige.	NotEnoughInfo
+123	Ralf Edström var tidligere svensk midtbanespiller.	Refuted
+124	Ralf Edström var angriber for Sverige's fodboldlandshold.	NotEnoughInfo
+125	Ram Trucks blev etableret under Chrysler Group, og er en pickup.	Supported
+126	Et raritetskabinet er en samling af moderne kunstgenstande.	Refuted
+127	Et raritetskabinet var en samling af sjældne kemiske grundstoffe.	Refuted
+128	Et raritetskabinet var en politisk forsamling af fårehyrder, antikvarboghandler og kunstner.	Refuted
+129	Et raritetskabinet var et møbel som holder en samling af genstande som relikvier, antikviteter og kunstgenstande.	Refuted
+130	Rashid Ramzi er født i Marokko men stiller ikke op i altetik i Marokko.	Supported
+131	Rashid Ramzi stiller op for atletik i Bahrain.	Supported
+132	Rashid Ramzi er født i Marokko men stiller op i skiløb for Bahrain.	Refuted
+133	Rashid Ramzi er født i Marokko men stiller op i atletik for Bahrain.	Supported
+134	Rashid Ramzi er født i Marokko men stille rop i atletik for Skotland.	Refuted
+135	Red Dead Revolver er et western videospil til PC.	Refuted
+136	Red Dead Revolver er et western videospil til PlayStation 2.	Supported
+137	Red Dead Revolver er et spil til Playstation konsollen.	Supported
+138	Red Dead Revolver er et sci-fi videospil til Playstation.	Refuted
+139	Red Warszawa's sanger hedder Dumme Jens.	Refuted
+140	Red Warszawa sanger heddder Lækre Jens.	Supported
+141	Red Warszawa's sanger hedder Flotte Jens.	Refuted
+142	Red Warszawa's sanger hedder Jens.	Supported
+143	Red Warszawa's trommespiller hedder Lækre Jens.	Refuted
+144	Før der blev skabt nyt land i 1872, bestod Refshaleøens område af skov.	Refuted
+145	Før der blev skabt nyt land i 1900-tallet, bestod Refshaleøens område af sandbanker.	Refuted
+146	Før der blev skabt nyt land i 1872, bestod Refshaleøens område af sandbanker.	Supported
+147	Reisa nationalpark ligger i Norge.	Supported
+148	Reisa nationalpark ligger i Californien.	Refuted
+149	Reisa nationalpark ligger i Østrig.	Refuted
+150	Reno er en stor by i Nevada.	NotEnoughInfo
+151	Reno er den tredjemindste by i Nevada.	NotEnoughInfo
+152	Reno er en af de største byer i Nevada.	NotEnoughInfo
+153	Reno er den tredjestørste by i Nevada.	Supported
+154	Julemandes mest kendte rensdyr stammer fra finsk folklore.	Refuted
+155	Julemandens mest kendte rensdyr, Rudolf, blev skabt af Walt Disney, da de delte små hæfter ud til deres kunder.	Refuted
+156	Montgomery Ward uddelte små hefter som indeholdt rensdyret Rudolf for første gang.	Supported
+157	Julemandens mest kendte rensdyr hedder Rudolf.	Supported
+158	Julemandens mest kendte rensdyr hedder Blitzen.	Refuted
+159	Julemandens mest kendte rensdyr, Rudolf, blev skabt af Montgomery Ward, da de delte små hæfter ud til deres kunder.	Supported
+160	Julemandens mest kendte rensdyr, Rudolf, blev skabt af Coca Cola, da de delte små hæfter ud til deres kunder.	Refuted
+161	Retsina er græsk producerede rosévine.	Supported
+162	Retsina er hvid- og rosévine produceret i Sydeuropa.	NotEnoughInfo
+163	Retsina er hvid- og rosévine produceret i Grækenland.	Supported
+164	Retsina er græsk producerede hvid- og rosévine.	Supported
+165	Retsina er hvid- og rosévine af græske producenter.	Supported
+166	Retsina er græsk producerede hvidvine.	Supported
+167	Retsina er græsk producerede hvid- og rødvine.	Refuted
+168	Ribe bispedømme havde oprindeligt både en dansk og en tysk pave.	Refuted
+169	Ribe bispedømme havde oprindeligt både en dansk og en tysk biskop.	Supported
+170	Ribe bispedømme havde oprindeligt både en dansk og en svensk biksop.	Refuted
+171	Rimsø-stenen er en gravsten.	Supported
+172	Rimsø-stenen er en runesten.	Supported
+173	Rimsø-stenen er en runesten fra Island.	Refuted
+174	Rimsø-stenen er et videospil.	Refuted
+175	Rimsø-stenen er en speciel sten.	NotEnoughInfo
+176	En ringvej er beregnet til at føre kollektiv trafik udem om et bycentrum.	Refuted
+177	En ringvej er beregnet til at føre biltrafik uden om et bycentrum.	Supported
+178	En ringvej er beregnet til at føre togtrafik uden om et bycentrum.	Refuted
+179	En ringvej er beregnet til at føre biltrafik uden om en bymidte.	Supported
+180	Færøernes Forfatterforening blev etableret i 1950'erne.	Supported
+181	Færøernes Forfatterforening blev etableret i 1957.	Supported
+182	Færøernes Forfatterforening blev nedlagt i 1957.	Refuted
+183	Færøernes Forfatterforening blev etableret efter 2. verdenskrig.	NotEnoughInfo
+184	Robbie Robertson har haft en solokarriere som musiker.	Supported
+185	Robbie Robertson har haft en gruppekariere som musiker.	Supported
+186	Robbie Robertson har haft en solokarriere som trommeslager.	NotEnoughInfo
+187	Robbie Robertson har haft en solokarriere som maler.	Refuted
+188	Længdespringeren Robert Emmijan var en del af det sovjetiske landshold.	Supported
+189	Længdespringeren Robert Emmijan repræsenterede Sovjetunionen.	Supported
+190	Robert Emmijan repræsenterede et land som ikke findes længere.	Supported
+191	Længdespringeren Robert Emmijan repræsenterede Sovjetunionen i Sommer-OL.	NotEnoughInfo
+192	Robert Emmijan er en russisk atlet.	Refuted
+193	Argentinske Roberto Bolonti er nuværende WBC Latino letsværvægtsmester.	Supported
+194	Ronnie Cuber spiller på klaver og fløjte.	Refuted
+195	Ronnie Cuber spiller på saxofon og fløjte.	Supported
+196	Ronnie Cuber spiller på blæseinstrumenter.	Supported
+197	Ronnie Cuber spiller på saxofon og trommer.	Refuted
+198	Danmarks formentlig ældste villakvarter, Rosenvænget, ligger på Østerbro i København.  	Supported
+199	Rosenvænget som er Danmarks ældste villakvarter ligger i København.	Supported
+200	Danmarks formentlig ældste villakvarter, Rosenvænget, ligger i København.	Supported
+201	Danmarks formentlig ældste villakvarter, Rosenvænget, ligger på Nørrebro i København.	Refuted
+202	Danmarks formentlig ældste villakvarter, Himmerland, ligger på Østerbro i København.	Refuted
+203	Rosmarin bruges i asiatisk inspirerede retter.	NotEnoughInfo
+204	Rosmarin bruges i italiensk inspirerede retter.	NotEnoughInfo
+205	Rosmarin bruges i sydlandsk inspirerede retter.	Supported
+206	Royal Philharmonic Society har haft fremragende komponister til deres koncerter, siden de blev grundlagt i 1813.	Supported
+207	Royal Philharmonic Society mødes i Royal Albert Hall i London.	NotEnoughInfo
+208	Royal Philharmonic Society har afholdt koncerter siden 1813.	Supported
+209	På spillestedet Rust er der clubbing med elektronisk musik.	Supported
+210	På spillestedet Rust er der både traditionelle koncerter og clubbing med rock musik.	Refuted
+211	På spillestedet Rust er der både traditionelle koncerter og clubbing med elektronisk musik.	Supported
+212	På spillestedet Rust er der tradionelle koncerter blandet med clubbing.	Supported
+213	På spillestedet Rust er der både traditionelle koncerter og clubbing med dødsmetal.	Refuted
+214	På spillestedet Rust er der traditionelle koncerter.	Supported
+215	Ryan DuWayne Bader er født i samme stat som Las Vegas ligger i.	Supported
+216	Ryan DuWayne Bader blev født i Nevada.	Supported
+217	Ryan DuWayne Bader blev født i Amerika.	Supported
+218	Ryan DuWayne Bader er vokset op i Neveda.	NotEnoughInfo
+219	Ryan Dolan har aldrig deltaget i Eurovison Song Contest før 2015.	Refuted
+220	Ryan Dolan har deltaget i Eurovision Song Contest 2013.	Supported
+221	Ryan Dolan er fra Irland.	Supported
+222	Ryan Dolan deltog i Eurovision Song Contest 2013 for Irland.	Supported
+223	Ryo Takiya spiller i Japan.	Supported
+224	Ryo Takiya spiller Quidditch.	Refuted
+225	Ryo Takiya spiller for Kataller Toyama.	Supported
+226	Ryo Takiya spiller for Manchester United.	Refuted
+227	Ryo Takiya spiller for FCK.	Refuted
+228	Selvom det nuværende rådhus er fra 1933, har Sønderborgs rådhus ligget på Rådhustorvet siden 1500-tallet.	Supported
+229	Selvom det nuværende rådhus er fra FIFA, har Sønderborgs rådhus ligget på Rådhustorvet siden 1500-tallet.	Refuted
+230	Selvom det nuværende rådhus er fra 1933, har Sønderborgs rådhus ligget på Rådhustovertet siden 1515.	NotEnoughInfo
+231	Selvom det nuværende rådhus er fra 1933, har Sønderborgs rådhus ligget på Kultorvet siden 1500-tallet.	Refuted
+232	Selvom det nuværende rådhus er fra 1900-tallet, har Sønderborgs rådhus ligget på Rådhustorvet siden 1500-tallet.	Supported
+233	SEPECAT Jaguar gjorde tjeneste i Royal Air Force.	Supported
+234	SEPECAT Jaguar gjorde tjeneste i Amerika.	NotEnoughInfo
+235	SEPECAT Jaguar gjorde tjeneste i den danske marine.	NotEnoughInfo
+236	Salten er en region i Nordland fylke i Norge med over 50.000 indbyggere.	Supported
+237	Salten er en region i Nordland fylke i Norge med 74.912 indbyggere.	Supported
+238	Salten er en region i Nordland fylke i Sverige med 74.912 indbyggere.	Refuted
+239	Salten er en region i Nordland fylke i Norge med under 80.000 indbyggere.	Supported
+240	Salvador Carmona var forsvarsspiller i fodbold.	Supported
+241	Salvador Carmona spillede højre back i fodbold.	Supported
+242	Salvador Carmona spillede højre fløj for Hannover 96.	NotEnoughInfo
+243	Salvador Carmona er en tidligere brasiliansk fodboldspiller.	Refuted
+244	Salvador Carmona var midtbanespiller.	Refuted
+245	Salvador Carmona spillede quarterback i amerikansk fodbold.	Refuted
+246	"For sin rolle i ""Asfaltjunglen"" blev Sam Jaffe omdøbt til Oscar i 1951."	NotEnoughInfo
+247	"For sin rolle i ""Asfaltjunglen"" blev Sam Jaffe nomineret til en Nobelpris i 1951."	NotEnoughInfo
+248	"For sin rolle i ""Asfaltjunglen"" blev Sam Jaffe nomineret til en Golden Globe i 1951."	NotEnoughInfo
+249	"For sin rolle i ""Junglebogen"" blev Sam Jaffe nomineret til en Oscar i 1967."	NotEnoughInfo
+250	"For sin rolle i ""Asfaltjunglen"" blev Sam Jaffe nomineret til en Oscar i 1951."	Supported
+251	Sankt Bodils Kirke er viet til Sankt Maria.	Refuted
+252	Sankt Bodils Kirke er viet til Sankt Budolf.	Supported
+253	Sankt Bodils Kirke er gift til Sankt Budolf.	Supported
+254	Sankt Cæcilia er en religiøs figur.	Supported
+255	Sankt Cæcilia er en katolsk kirke.	Refuted
+256	Sankt Cæcilia er en muslimsk helgen.	Refuted
+257	Sankt Cæcilia er en katolsk helgen.	Supported
+258	Sankt Cæcilia er en helgen fra en verdensreligion.	NotEnoughInfo
+259	Sankt Cæcilia er en helgen i den katolske kirke.	Supported
+260	Sankt Hans Mølle ligger ved et gammelt møllehus.	Supported
+261	Sankt Hans Mølle ligger ved Sandbjerg, og ligger ved det gamle møllehus.	Supported
+262	Sankt Hans Mølle ligger ved Sandbjerg.	Supported
+263	Kasimir Jagiellon betragtes som skytshelgen i Slagelseprovsti.	NotEnoughInfo
+264	Kasimir Jagiellon betragtes som skytshelgen i de lande hvor han herskede.	Supported
+265	Kasimir Jagiellon betragtes som Posh Spice i de lande hvor han herskede.	NotEnoughInfo
+266	Kasimir Jagiellon betragtes som skytshelgen i de lande hvor han blev udsendt.	NotEnoughInfo
+267	Kasimir Jagiellon betragtes som skytshelgen i de lande hvor han spillede skak.	NotEnoughInfo
+268	Saqqaq-kulturen er et skuespil i Grønland.	Refuted
+269	Saqqaq-kulturen er en civilisation i Grønland.	Supported
+270	Saqqaq-kulturen er en civilisation i Alaska.	Refuted
+271	Saqqaq-kulturen er en hunderace i Grønland.	Refuted
+272	Gudinden for musik og viden er kone til en anden gud.	Supported
+273	Gudinden for musik og viden, Sarasvati, er single.	Refuted
+274	Gudinden for musik og viden, Sarasvati, er Brahmas kone.	Supported
+275	Indenfor hinduisme er Sarasvate gudinden for musik og viden.	Supported
+276	Brahmas kone er gundinden for musik og viden.	Supported
+277	Gudinden for 5000m og terrænløb, Sarasvati, er Brahmas kone.	Refuted
+278	Gudinden for musik og viden, Sarasvati, er fra Bahamas.	Refuted
+279	Den saudiske regering ejer et flyselskab med hovedkontor på Jeddah International Airport.	Supported
+280	Den franske regering ejer et flyselskab med hovedkontor på Jeddah International Airport.	NotEnoughInfo
+281	Den saudiske regering ejer et flyselskab med kontor på Jeddah International Airport.	Supported
+282	Den saudiske regering ejer et flyselskab med hovedkontor på Akunnaaq Helistop.	NotEnoughInfo
+283	Den saudiske regering ejer en mellemklassebil i Jeddah International Airport.	NotEnoughInfo
+284	Schlager Metal har heavy metal-coverversioner af sange fra Melodifestivalen.	Supported
+285	Schlager Metal har heavy metal-coverversioner af sange fra dansk top listen.	Refuted
+286	Schlager Metal har heavy metal-coverversioner af sange fra P3.	NotEnoughInfo
+287	Schlager Metal har pop-coverversioner af sange fra Melodifestivalen.	Refuted
+288	Schlieffenplanen blev udarbejdet af Alfred Graf von Schlieffen da 1. verdenskrig startede.	Supported
+289	Schouboe er navnet på en dansk adelsslægt.	Supported
+290	Schouboe er navnet på en uddød dansk ko.	Refuted
+291	Schouboe er navnet på en uddød dansk fortfatter-familie.	NotEnoughInfo
+292	Schouboe er navnet på en uddød dansk adelsslægt.	Supported
+293	Sebastian Bach er musiker.	Supported
+294	Sebastian Bierk skiftede efternavnet til Bach.	Supported
+295	Sebastian Bach blev født med efternavnet Fyer.	Refuted
+296	Sebastian Bierk blev født med tre ben.	NotEnoughInfo
+297	Sebastian Bach blev født med efternavnet Bierk.	Supported
+298	Sebastian Dorset er født i Aalborg.	Supported
+299	Sebastian Dorset er født i Jylland.	Supported
+300	Sebastian Dorset er død i Aalborg.	NotEnoughInfo
+301	Sebastian Dorset er født i København.	Refuted
+302	Sebastian Dorset er fra Aalborg.	Supported
+303	Seden Kirke blev opført i 1530.	Refuted
+304	Seden Kirke blev bygget i 1412.	Supported
+305	Seden Kirke blev opført i 1412.	Supported
+306	Seden Kirke blev opført i 1400-tallet.	Supported
+307	Seden Kirke blev bombet i 1412.	NotEnoughInfo
+308	Selangor er et sultanat i Malaysia.	Supported
+309	Selangor har en sultan.	Supported
+310	Selangor har en demokratisk regering.	Refuted
+311	Selangor er en region i Malaysia.	Supported
+312	Selangor ligger i Sydøstasien.	Supported
+313	Selangor er et kongerige i Malaysia.	Refuted
+314	En selestrammer er en hastighedsbegrænsning i et køretøj.	Refuted
+315	Nogle køretøjer har selestrammere for sikkerheds skyld.	Supported
+316	En selestrammer er en sikkerhedsanordning i et køretøj.	Supported
+317	Serban Nichifor er en komponist født i Australien.	Refuted
+318	Serban Nichifor er en forfatter født i Rumænien.	Refuted
+319	Serban Nichifor er en komponist født i Rumænien. 	Supported
+320	Serban Nichifor er en lærer født i Rumænien.	Supported
+321	Shane Cansdell-Sherrif spiller i Storbrittannien.	Refuted
+322	Shane Cansdell-Sheriff spiller i en engelsk liga.	Supported
+323	Shane Cansdell-Sherrif er en engelsk fodboldspiller.	Refuted
+324	Shane Cansdell-Sherrif spiller i Premier League.	Refuted
+325	"Shenandoahflodens navn kommer fra et indianisk udtryk der betyder ""Punkt Farmer""."	Refuted
+326	"Shenandoahflodens navn kommer fra et indianisk udtryk der betyder ""Solens datter""."	Refuted
+327	"Shenandoahflodens navn kommer fra et aboriginalt udtryk der betyder ""Stjernernes Datter""."	Refuted
+328	Shenandoahfloden dannes ved sammenløbet af to floder.	Supported
+329	Shenandoahfloden dannes ved et samløb i potomacfloden.	Refuted
+330	"Shenandoahflodens navn kommer fra et moderne udtryk der betyder ""Stjernernes Datter""."	NotEnoughInfo
+331	"Shenandoahflodens navn kommer fra et indianisk udtryk der betyder ""Stjernernes Datter""."	Supported
+332	"Shenandoahfloden dannes ved sammenløbet af ""South Fork of the Shenandoah River"" og ""North Fork of the Shenandoah River""."	Supported
+333	"Shenandoahfloden dannes ved sammenløbet af ""South Fork of the Shenandoah River"" og ""North Fork of the Shenandoah River"" i Nordamerika."	Supported
+334	Shit & Chanel No. 5 er et album af Rasmus Seebach.	Refuted
+335	Shit & Chanel No. 5 er et album af Shits & Giggles.	Refuted
+336	Shit & Chanel No. 5 er et album af Shit & Chanel.	Supported
+337	Sicko kritiserer private sygeforsikringsselskaber.	Supported
+338	Sicko er en amerikansk dokumentarfilm med et kritisk fokus på private sygeforsikringsselskaber.	Supported
+339	Sicko er en kritisk dokumentarfilm.	Supported
+340	Sicko er en dokumentarfilm med et kritisk fokus på private sygeforsikringsselskaber.	Supported
+341	Sicko fokusserer på private sygeforsikringsselskaber.	Supported
+342	Sicko er en dokumentarfilm med et kritisk fokus på private fængsler.	Refuted
+343	Sicko er en dokumentarfilm med et kritisk fokus på private fødselsdagsfester.	Refuted
+344	Siena er en by i det nordlige Toscana.	Refuted
+345	Siena er en by i det sydlige Toscana.	Supported
+346	Siena er en by i Italien.	Supported
+347	Siena er en by i Toscana.	Supported
+348	Siena er en by i det sydlige Jylland.	Refuted
+349	Helikopterne med modelbetegnelsen S-61 bruges af Sikorsky Aircraft Corporation.	Supported
+350	Sikorsky sprang over modelbetegnelsen S-61, da de gik direkte fra S-60 til S-62.	Refuted
+351	Alle helikopter med modelbetegnelsen S-61 er produceret af Sikorsky Aircraft Corporation.	Supported
+352	Helikopterne med modelbetegnelsen S-61 er produceret af et amerikansk firma.	Supported
+353	Helikopterne med modelbetegnelsen S-61 er produceret af Sikorsky Aircraft Corporation.	Supported
+354	Luftfartøjer med modelbetegnelsen S-61 er produceret af Sikorsky Aircraft Corporation.	Supported
+355	Helikopterne med modelbetegnelsen S-61 er produceret ved Jeddah International Airport.	Refuted
+356	Silas Carson spiller med i tre Star Wars-film.	Supported
+357	Silas Carson spiller med i nogle Star Wars-film.	Supported
+358	Silas Carson spiller med i nogle Meet The Parents-film.	NotEnoughInfo
+359	Bombyx mori er det mest kendte art af silkesommerfugle.	Supported
+360	Silkesommerfuglens mest kendte art er Silkesommerfugle Bombyx mori.	Supported
+361	Der blev ingen arter af silkesommerfugle opdaget.	Refuted
+362	Silkesommerfuglens største art er Bombyx mori.	NotEnoughInfo
+363	Silkesommerfuglens mest kendte art er Memento mori.	Refuted
+364	En sistrum er et musikinstrumet forbundet med det gamle Egypten.	Supported
+365	Sjæltågen er en stjernetåg i Cassiopeia.	Supported
+366	Skarvheimen er et højfjeldsområde ved Jotunheimen i Europa.	Supported
+367	Skarvheimen er et højfjeldsområde ved Jotunheimen i Norge.	Supported
+368	Skarvheimen er et højfjeldsområde ved Jotunheimen i Norden.	Supported
+369	Skarvheimen er et højfjeldsområde ved Jotunheimen et sted i Norge.	Supported
+370	Honda Point var en stor skibskatastrofe for United States Navy.	Supported
+371	Honda Point var en heldig forekomst for United States Navy.	Refuted
+372	US Navy var involveret i Honda Point katastrofen.	Supported
+373	Honda Point var en stor skibskatastrofe for den spanske marine.	Refuted
+374	Honda Point var en skibskatastrofe i Japan.	Refuted
+375	Skibsmekanikere beskæftiger sig med vedligeholdelse og reperation af skibe så de ikke sejler dårligt.	Supported
+376	Skibsmekanikere beskæftiger sig med vedligeholdelse og reperation af skibe så de sejler godt.	Supported
+377	Skibsmekanikere beskæftiger sig med vedligeholdelse og reperation af skibe så de sejler optimalt.	Supported
+378	Skibsmekanikere beskæftiger sig med vedligeholdelse og reperation af skibe så de ikke sejler optimalt.	Refuted
+379	Skihopkonkurrencer vindes med en blanding af lange rejehop og velbedømt stil.	Refuted
+380	Skihopkonkurrencer vindes med en blanding af lange hop og velbedømt swag.	NotEnoughInfo
+381	Skihopkonkurrencer vindes med en blanding af korte hop og velbedømt stil.	Refuted
+382	Skihopkonkurrencer vindes med en blanding af lange hop og velbedømt stil.	Supported
+383	Alle bogstaverne på en skrivemaskine bliver udsendt om hverdagen fra 14 til 16.	Refuted
+384	Alle bogstaverne på en skrivemaskine har præcis samme bredde.	Supported
+385	Alle tasterne på en skrivemaskine har præcis samme bredde.	NotEnoughInfo
+386	Nogle af bogstaverne på en skrivemaskine har samme bredde.	Supported
+387	Alle bogstaverne på en skrivemaskine har præcis samme længde.	Refuted
+388	Lau Lauritzen har instrueret eller skrevet stumfilmen Skruebrækkeren.	Refuted
+389	Lau Lauritzen har skrevet en stumfilm.	Supported
+390	Lau Lauritzen har både instrueret og skrevet stumfilmen Skruebrækkeren.	Supported
+391	Lau Lauritzen har instrueret både stumfilmen Skruebrækkeren og vikingefilmen Når ræven flyver.	NotEnoughInfo
+392	Lau Lauritzen er stemmeskuespiller i filmen Skruebrækkeren.	Refuted
+393	Skt. Pauls skole er en privatskole fra 1976.	Supported
+394	Skt. Pauls skole er en kostskole fra 1976.	NotEnoughInfo
+395	Skt. Pauls skole er en folkeskole fra 1976.	Refuted
+396	Kvindernes 10 meter luftpistol i Rio '16 OL blev afholdt den 7. august.	Supported
+397	Kvindernes 10 meter luftpistol i London '16 OL blev afholdt den 7. august.	Refuted
+398	Kvindernes 10 meter luftpistol i Rio '16 OL blev afholdt 7. maj.	Refuted
+399	Kvindernes 10 meter luftpistol i Rio '16 OL blev afholdt den 10. august.	Refuted
+400	Indenfor obligationsretten består et skyldforhold af en eller flere fordringer mellem to partnere.	Supported
+401	Slagelse Provsti blev dannet i 2014, da det tidligere Slagelse Provsti blev sammenlagt med Katapult.	Refuted
+402	Slagelse Provsti blev dannet i 2014, da det tidligere Slagelse Provsti blev sammenlagt med Skælskør Provsti.	Supported
+403	Slagelse Provsti blev dannet i 2014, da det tidligere Slagelse Provsti blev sammenlagt med Roskilde Provsti.	Refuted
+404	Slagelse Provsti blev dannet i 2007, da det tidligere Slagelse Provsti blev sammenlagt med Skælskør Provsti.	Refuted
+405	Slaget ved Cerro Gordo skete inden i 1800'tallet som en del af en krig.	Supported
+406	Slaget ved Cerro Gordo skete inden 1850 som en del af en fest.	Refuted
+407	Slaget ved Cerro Gordo skete inden 1850 som en del af en krig.	Refuted
+408	Slaget mellem Olav Haraldsson og Svein Håkonsson var uden de allierede norske stormænd.	NotEnoughInfo
+409	Slaget mellem Olav Haraldsson og Svein Håkonsson (og de allierede norske stormænd) hed 'Battle of the Bastards'.	Refuted
+410	Slaget mellem Olav Haraldsson og Svein Håkonsson (og de allierede norske stormænd) hed Slaget ved Nesjar.	Supported
+411	Slivsø er Sønderjyllands mindste sø.	Refuted
+412	Slivsø er Sønderjyllands tredjestørste sø.	Supported
+413	Slivsø er Sønderjyllands største sø.	Refuted
+414	Slivsø er Københavns tredjestørste sø.	Refuted
+415	Slivsø i Sønderjylland er en sø.	Supported
+416	Socialist Appeal er en britisk organisation der udgiver en månedlig avis.	Supported
+417	Socialist Appeal er en britisk organisation der udgiver en ugentligt avis.	Refuted
+418	Socialist Appeal er en britisk organisation der udgiver en årlig avis.	Refuted
+419	Softguns findes både i variation som pistol og gevær.	Supported
+420	Softguns findes både i variation som pistol og kanon.	Refuted
+421	Softguns findes både i variation som pistol og granater.	Refuted
+422	Under de olympiske lege i 1948 blev både Tyskland og Japan nægtet deltagelse.	Supported
+423	Tyskland og Japan må ikke deltage i Sommer-OL 1948.	Supported
+424	Alle lande deltog i Sommer-OL 1948.	Refuted
+425	Under de olympiske lege i 1948 blev både Tyskland og Japan tilladt deltagelse.	Refuted
+426	Under de olympiske lege i 1948 blev Tysklands fodboldlandshold nægtet deltagelse.	Supported
+427	Sommerfuglekys gives med et blinkende øjes vipper mod nogens ansigt.	Supported
+428	Sommerfuglekys gives med et blinkende øjes vipper mod nogens stjerne.	Refuted
+429	Sommerfuglekys gives med et blinkende øjes vipper mod nogens bjørn.	Refuted
+430	Sommerfuglekys gives med et åbent øjes vipper mod nogens ansigt.	NotEnoughInfo
+431	Sophia Bush er en amerikansk skuespiller som spiller Brooke Davis i tv-serien One Tree Hill.	Supported
+432	Sophia Bush er en amerikansk skuespiller som spiller Brooke Davis i tv-serien Beverly Hills 90210.	Refuted
+433	Sophia Bush er en amerikansk skuespiller som spiller Rachel Greene i tv-serien Friends.	Refuted
+434	Sorteper er skrevet af Søren la Cour.	Supported
+435	Til filmen Sorteper skrev Søren la Cour selv manuskriptet.	Supported
+436	Sosigenes var rådgiver for Cleopetra.	Refuted
+437	Sosigenes var rådgiver for Julius Cæsar.	Supported
+438	Sosigenes var rådgiver for Kejser Augustus.	Refuted
+439	Sosigenes var skribent for Julius Cæsar.	Refuted
+440	Sosigenes var rådgiver for en romersk kejser.	Supported
+441	Spaniens nationalbibliotek er et af de største biblioteker i Madrid.	Supported
+442	Spaniens nationalbibliotek er et af de største biblioteker i verden siden dets udvidelse i 1712 af Filip V.	Refuted
+443	Spaniens nationalbibliotek er et af de største biblioteker i verden, da det har 15 millioner genstande eller mere.	NotEnoughInfo
+444	Filip V. oprettede et af verdens største biblioteker i 1712.	Supported
+445	Spaniens nationalbibliotek er et af de største biblioteker i verden siden dets oprettelse i 1712 af den daværende spanske konge.	Supported
+446	Spaniens nationalbibliotek er et af de største biblioteker i verden siden dets oprettelse i 1712 af John Dalton.	Refuted
+447	Spaniens nationalbibliotek er et af de største biblioteker i verden siden dets oprettelse i 1712 af Filip V.	Supported
+448	Spejlsalen er en seværdighed ved Versaillespaladset.	Supported
+449	Spejlsalen er et ukendt rum ved Versaillespaladset.	Refuted
+450	Spejlsalen regnes som en stor attraktion ved Versaillespaladset.	Supported
+451	Spejlsalen er en spejsesal ved Versaillespaladset.	NotEnoughInfo
+452	Speyerdomen, som officielt kaldes Domkirche St. Maria und St. Stephan, er sæde for det jødiske Speyer bispedømme.	Refuted
+453	Speyerdomen, som officielt kaldes Domkirche St. Maria und St. Stephan, er kommandocentral for det romersk-katolske Speyer bispedømme.	NotEnoughInfo
+454	Speyerdomen, som officielt kaldes Domkirche St. Maria und St. Stephan, er sæde for det romersk-katolske Speyer bispedømme.	Supported
+455	Speyerdomen, som kaldes Domkirche St. Maria und St. Stephan, er sæde for det romersk-katolske Speyer bispedømme.	Supported
+456	Speyerdomen, som officielt kaldes Domkirche St. Maria und St. Stephan, er sæde for det græsk-katolske Speyer bispedømme.	Refuted
+457	Sprænghoved er en betegnelse for en del af kroppen.	Refuted
+458	Et sprænghoved kan findes i et missil.	Supported
+459	Sprænghoved er en betegnelse for en del af f.eks. et missil, som sprænges.	Supported
+460	Sprænghoved er en betegnelse for et stabilt ufarligt materiale.	Refuted
+461	Spullerbach udspringer af Spullersee i Alperne.	Supported
+462	Spullerbach udspringer af Spullersee i Lechtaler Alperne.	Supported
+463	Spæd mælkeurt forekommer i habitater som hedekær.	Supported
+464	Spæd mælkeurt forekommer i habitater som regnskoven.	NotEnoughInfo
+465	Spæd mælkeurt forekommer i habitater som i Danmarks skove.	NotEnoughInfo
+466	Srilankanske rupee er den officielle valuta i Indien.	Refuted
+467	Srilankanske rupee bruges på en asiatisk ø.	Supported
+468	I Sri Lanka benyttes srilankanske rupees til betaling.	Supported
+469	Srilankanske rupee er den officielle valuta i et sydasiatisk land.	Supported
+470	Srilankanske rupee er den officielle hovedstad i Sri Lanka.	Refuted
+471	US Dollar er den officielle valuta i Sri Lanka.	Refuted
+472	St. Petersburg Times bliver uddelt i hoteller og restauranter, hvor det koster 250 rubler.	Refuted
+473	St. Petersburg Times bliver uddelt gratis en gang om ugen.	Refuted
+474	St. Petersburg Times bliver solgt i hoteller og restauranter, når det udkommer tirsdag og fredag.	Refuted
+475	St. Petersburg Times bliver uddelt gratis i undergrundbanen, når det udkommer tirsdag og fredag.	NotEnoughInfo
+476	Hoteller og restauranter kan få en gratis udgave af St. Petersburg Times to gang om ugen.	Supported
+477	St. Petersburg Times bliver uddelt gratis i hoteller og restauranter, når det udkommer tirsdag og fredag.	Supported
+478	St. Petersburg Times bliver uddelt i gratis i byen, når det udkommer tirsdag og fredag.	Supported
+479	"""Stairway To Heaven"" udkom på et albummet 'Greatest Hits'."	NotEnoughInfo
+480	"""Stairway To Heaven"" udkom på et album uden titel."	Supported
+481	"""Stairway To Heaven"" udkom kun som single."	Refuted
+482	Stalagmit betegner en drypsten som kan findes i huler.	Supported
+483	Stalagmit betegner en drypsten som kan findes i drypstenshuler.	Refuted
+484	Stalagmit betegner en drypsten som kan findes i kalkstenshuler.	Supported
+485	Standardbetingelser skaber muligheden for at adskille foreskellige datasæt fra hinanden.	Refuted
+486	Standardbetingelser skaber muligheden for sammenligninger af forskellige ligninger.	NotEnoughInfo
+487	Standardbetingelser skaber muligheden for sammenligninger af forskellige hunderacer.	Refuted
+488	Standardbetingelser skaber muligheden for sammenligninger af forskellige datasæt.	Supported
+489	Oprindeligt blev Stanley Cup givet til det bedste amatør-ishockeyhold i Spice Girls, men i dag gives trofæet til vinderen af NHL.	Refuted
+490	Oprindeligt blev Stanley Cup givet til det bedste amatør-ishockeyhold i Canada, men i dag gives trofæet til vinderen af Spice Girls.	Refuted
+491	Oprindeligt blev Stanley Cup givet til det bedste amatør-ishockeyhold i Canada, men i dag gives trofæet til vinderen af NHL.	Supported
+492	Oprindeligt blev Stanley Cup givet til det bedste amatør-ishockeyhold i Polen, men i dag gives trofæet til vinderen af NHL.	Refuted
+493	Statens Serum Institut ligger på grunden af Artillerivejens Kaserne på Amager Boulevard.	Supported
+494	Statens Serum Institut ligger på et tidligere militærisk område på Amager Boulevard.	Supported
+495	Statens Serum Institut ligger på grunden af Artillerivejens Kaserne på Artillerivej.	Refuted
+496	Statens Serum Institut ligger helt på et tidligere civilt område på Amager Boulevard.	Refuted
+497	Statens Serum Institut ligger på grunden af Aalborg Universitet på Amager Boulevard.	Refuted
+498	Statens Serum Institut ligger på grunden af Artillerivejens Kaserne på Amager Boulevard på den nordlige del af Amager.	NotEnoughInfo
+499	Europæiske Steen Gottlieb begyndte at skyde med bue som 3-årig i Broager Bueskytter.	NotEnoughInfo
+500	Steen Gottlieb begyndte at skyde med bue og pil som 3-årig i Broager Bueskytter.	Supported
+501	Steen Gottlieb begyndte at skyde med pil som 3-årig i Broager Bueskytter.	Supported
+502	Steen Gottlieb begyndte at skyde med bue som 3-årig, selvom bue ikke er brugt til krigsførsel siden 1815.	Supported
+503	Bueskytten Steen Gottlieb begyndte at skyde med bue som 3-årig.	Supported
+504	Steen Gottlieb begyndte at skyde med skydevåben som 3-årig i Broager Bueskytter.	Supported
+505	Pteropodidae er en familie af storflagermus.	Supported
+506	Pteropodidae er en familie af lamaer.	NotEnoughInfo
+507	Pteropodidae er en familie i Game of Thrones.	NotEnoughInfo
+508	Pteropodidae er en familie i Harry Potter.	NotEnoughInfo
+509	Som udgangspunkt for skiture betjenes Stryken station kun af enkelte afgange i vinterhalvåret.	Supported
+510	Columbia Pictures står bag Stuart Little.	Supported
+511	Stuart Little blev udgivet af et amerikansk filmproduktionsselskab.	NotEnoughInfo
+512	Kolumbien står bag Stuart Little.	Supported
+513	Stuart Little blev produceret af Columbia Pictures.	Supported
+514	MTV står bag Stuart Little.	Refuted
+515	Stødhvært er en mekanisk vandflyver.	Refuted
+516	Stødhvært er en mekanisk vandpumpe.	Supported
+517	Stødhvært er en mekanisk tyr.	Refuted
+518	Margot Robbie spiller hovedrollen i Suicide Squad.	Supported
+519	Suicide Squad er en superheltefilm med Robbie Williams i en af hovedrollerne.	Refuted
+520	Suicide Squad er en amerikansk film om DC superhelte.	NotEnoughInfo
+521	Suicide Squad har ikke nogen kvindelige skuespillere i hovedrollerne.	Refuted
+522	Suicide Squad er en superheltefilm.	Supported
+523	Suicide Squad er en superheltefilm instrueret af Margot Robbie.	Refuted
+524	Suicide Squad er en superheltefilm med Margot Robbie i en af hovedrollerne.	Supported
+525	Surkløver-ordenen er mest udbredt i Afrika.	Refuted
+526	Surkløver-ordenen er mest udbredt i tundra.	Refuted
+527	Surkløver-ordenen er mest udbredt i troperne.	Supported
+528	Suså på Sjælland er Danmarks 5. største forlystelsespark.	Refuted
+529	Suså på Sjælland er Danmarks 5. største vandsystem.	Supported
+530	Suså på Sjælland er Danmarks største vandsystem.	Refuted
+531	Suzukimetoden bruges i undervisning vedrørende strygeinstrumenter.	Supported
+532	Suzukimetoden anvendes i instrumentundervisning for strygeinstrumenter.	Supported
+533	Suzukimetoden anvendes i instrumentundervisning for slaginstrumenter.	Refuted
+534	Suzukimetoden anvendes i læren om strygeinstrumenter.	Supported
+535	Svein Øvergaard døde inden år 2000.	Supported
+536	Svein Øvergaard døde efter år 2000.	Refuted
+537	Svein Øvergaard døde inden år 1960.	Refuted
+538	Svein Øvergaard døde.	Supported
+539	Svein Øvergaard blev født inden år 2000.	Supported
+540	Svend Garde var en dansk statsminister.	Refuted
+541	Svend Garde var en dansk kontorchef.	Supported
+542	Svingefluer kan ligne myrer.	Supported
+543	Svingefluer kan spise myrer.	NotEnoughInfo
+544	Svingefluer kan ligne andre insekter.	Supported
+545	Svingefluer kan ligne murer.	Refuted
+546	Floden Svir forbinder de to største søer i Asien, da den løber fra Onegasøen til Ladogasøen.	Refuted
+547	Floden Svir forbinder de to mindste søer i Europa, da den løber fra Onegasøen til Ladogasøen.	Refuted
+548	Floden Svir forbinder de to største havne i Europa, da den løber fra Onegasøen til Ladogasøen.	Refuted
+549	Floden Svir forbinder de to største søer i Europa, da den løber fra Onegasøen til Ladogasøen.	Supported
+550	Swaine Adeney Brigg, der blev grundlagt i 1900-tallet, fremstiller blandt andet kufferter.	Supported
+551	Swaine Adeney Brigg, der blev grundlagt i 1700-tallet, fremstiller blandt andet kufferter.	Supported
+552	Swaine Adeney Brigg, der blev grundlagt i 1700-tallet, fremstiller kuffeter, paraplyer, og tasker.	Supported
+553	Swaine Adeney Brigg, der blev grundlagt i 1700-tallet, fremstiller blandt andet tasker.	Supported
+554	Swaine Adeney Brigg, der blev grundlagt i 1700-tallet, fremstiller blandt andet paraplyer.	Supported
+555	Mændenes syvmandsrugbyturnering ved Sommer-OL 2016 blev afholdt i et midlertidig udendørsstadion i Puerto Rico.	Refuted
+556	Mændenes syvmandsrugbyturnering ved Sommer-OL 2016 blev afholdt i et midlertidig udendørsstadion i Sochi.	Refuted
+557	Mændenes syvmandsrugbyturnering ved Sommer-OL 2016 blev afholdt i et midlertidig udendørsstadion i Rio de Janeiro.	Supported
+558	Mændenes syvmandsrugbyturnering ved Sommer-OL 2016 blev afholdt i et stadion i Rio de Janeiro.	Supported
+559	Så er der kaffe! er skrevet af to personer.	Supported
+560	Så er der kaffe! er en dansk dokumentarfilm.	Supported
+561	Så er der kaffe! er skrevet af Thomas Hansen.	Refuted
+562	Et computerprogram skrevet i et højniveaussprog består af en eller flere sætninger.	Supported
+563	Et computerprogram skrevet i et højniveaussprog består af en eller flere ord.	NotEnoughInfo
+564	Et computerprogram skrevet i et programmeringssprog består af en eller flere sætninger.	Supported
+565	Et computerprogram skrevet i et keltisk sprog  består af en eller flere sætninger.	NotEnoughInfo
+566	Ségou regionen i Mali grænser til Mauretanien i nord og Burkina Faso i syd.	Supported
+567	Ségou regionen i Mali grænser til Burkina Faso i syd.	Supported
+568	Ségou regionen i Mali grænser til Mauretanien i syd og Burkina Faso i nord.	Refuted
+569	Søs Kjeldsen er producer ved TV 2.	Refuted
+570	Søs Kjeldsen er journalist ved Politiken.	Refuted
+571	Søs Kjeldsen er journalist ved TV 2.	Supported
+572	Søs Kjeldsen er journalist ved DR1.	Refuted
+573	Søs Kjeldsen er skuespiller ved TV2.	Refuted
+574	Søstrup Sogn eksisterer i Roskilde Stift.	Supported
+575	Søstrup Sogn ligger på Fyn.	Refuted
+576	Søstrup Sogn ligger i Danmark.	NotEnoughInfo
+577	Søstrup Sogn ligger i Roskilde Stift.	Supported
+578	Vibeke Juel har instrueret filmen Shutter Island.	NotEnoughInfo
+579	Vibeke Juel har skrevet filmen TV-dinner.	Supported
+580	Vibeke Juel har instrueret filmen Efter Bryllupet.	NotEnoughInfo
+581	Vibeke Juel har instrueret filmen TV-dinner.	Supported
+582	TYPO3 er et projekt fra 1998 skrevet i Java.	Refuted
+583	TYPO3 er et projekt fra 1998 skrevet i SQL.	Refuted
+584	TYPO3 er et projekt fra 1990 skrevet i PHP.	Refuted
+585	TYPO3 er et projekt fra 1998 skrevet i PHP.	Supported
+586	Tabu Records 10 års jubilæum er et opsamlingsalbum med numre fra diverse danske kunstnere.	Supported
+587	Taft-Hartley-loven er en amerikansk handelslov. 	Supported
+588	Taft-Hartley-loven er en dansk lov.	Refuted
+589	Taft-Hartley-loven er en amerikansk fiskelov.	Refuted
+590	Taft-Hartley-loven er en amerikansk lov.	Supported
+591	Taiping er en by i Malaysia.	Supported
+592	Tamra er et biblisk pigenavn.	NotEnoughInfo
+593	Tamra er et hebraisk pigenavn.	Supported
+594	Tamra er et navn fra Asien.	Supported
+595	Tamra er et navn fra Israel.	NotEnoughInfo
+596	Tamra er et kinesisk pigenavn.	Refuted
+597	Tatsuki Nara er en japansk fodboldspiller.	Supported
+598	En forfatningsændring i 2005 tillod Tchads regeringschef, efterkommeren af Hissein Habré, at stille til genvalg i en tredje periode.	Supported
+599	En forfatningsændring i 2010 tillod Tchads regeringschef Idriss Déby at stille til genvalg i en tredje periode.	Refuted
+600	En forfatningsændring i 2005 tillod Tchads regeringschef Idriss Déby at stille til genvalg i en tredje periode.	Supported
+601	En forfatningsændring i 2005 tillod Idriss Déby at stille til genvalg i en tredje periode.	Supported
+602	Teatro alla Scala i Milano ligger i Milano.	Supported
+603	Teatro alla Scala i Milano er et operahus.	Supported
+604	Teatro alla Scala i Milano er også kendt som Scala-operaen.	Supported
+605	Teatro alla Scala i Milano er også kendt som Sydney-operaen.	Refuted
+606	Teatro alla Scala i Milano er også kendt som 'Hogwarts'.	Refuted
+607	Teatro alla Scala i Milano er også kendt som 'Den Kinesiske Mur'.	Refuted
+608	Tekken 7 er et spil til Playstation 4, Xbox One, og Microsoft Windows.	Supported
+609	Tekken 7 er et spil til flere forskellige spilkonsoller.	Supported
+610	Tekken 7 er et spil til blandt andet Xbox One.	Supported
+611	Tekken 7 er et computerspil kun til Microsoft Windows.	Refuted
+612	Telegramtyvenes instruktør er ubekendt.	Supported
+613	Telegramtyvenes instruktør er Signe Lindkvist.	Refuted
+614	Telegramtyvenes instruktør er Lars Ranthe.	Refuted
+615	Tempeldanserindens Elskov er en film instrueret af Holger-Madsen.	Supported
+616	Temple betjenes af ti metrolinjer.	Refuted
+617	London's Overground-station Temple ligger både på Circle og Northern Line.	Refuted
+618	London's Underground-station Temple ligger både på Circle og District Line.	Supported
+619	Temple betjenes af to metrolinjer.	Supported
+620	London's regionaltogstation Temple ligger både på Circle og District Line.	Refuted
+621	London's Underground-station Temple ligger både på Northern og District Line.	Refuted
+622	Theresa Polo spillede med i to film som Pam Focker.	Supported
+623	Theresa Polo spillede med i tre film som Pam Focker.	Supported
+624	Theresa Polo spillede med i tre film som Batman.	NotEnoughInfo
+625	Theresa Polo spillede med i en film som Pam Focker.	Supported
+626	Testimonium Flavianum blev offentliggjort i 1993 men nogle historiker tror at det delvist består af senere tillæg.	Refuted
+627	Testimonium Flavianum blev offentliggjort i 93 men nogle historiker tror at det delvist består af senere tillæg.	Supported
+628	Testimonium Flavianum blev offentliggjort i 93 men nogle historiker tror at det delvist består af tidligere tillæg.	Supported
+629	Testimonium Flavianum blev offentliggjort i 93 men nogle påstår at det hovedsagligt består af senere tillæg.	NotEnoughInfo
+630	Testimonium Flavianum blev offentliggjort i 93 men nogle historiker tror at det hovedsagligt består af senere tillæg.	NotEnoughInfo
+631	Billedhuggeren Johan Theobald Stein bagte to brød.	NotEnoughInfo
+632	Billedhuggeren Johan Theobald Stein havde to brødre.	Supported
+633	Johan Theobald Stein var den yngste af tre brødre.	Refuted
+634	Billedhuggeren Johan Theobald Stein havde to søskende.	Supported
+635	"Billedhuggeren Johan Theobald Stein er en eksempel for ""nominative determinism""."	NotEnoughInfo
+636	Billedhuggeren Johan Theobald Stein er enebarn.	Refuted
+637	Cheetah Girls er en Disney Channel Original Movie, som er baseret på en amerikansk bog af samme navn.	NotEnoughInfo
+638	Cheetah Girls er en Disney Channel Original Movie, som blev til en bog med samme navn.	Refuted
+639	Cheetah Girls er en Disney Channel Original Movie, som er baseret på en bog af samme navn.	Supported
+640	Cheetah Girls er en Disney Channel Original Movie, som er baseret på Løvernes Konge.	Refuted
+641	Bogen Cheetah Girls blev til en Disney film.	Supported
+642	Cheetah Girls er en animationsfilm, som er baseret på en bog af samme navn.	Refuted
+643	New Deal skiftede deres navn til The Crash i 1990'erne.	Supported
+644	New Deal skiftede deres navn til The Car Crash i 1997.	Refuted
+645	New Deal skiftede deres navn til The Crash i 1997.	Supported
+646	The Crazy Reds blev stiftet i 1990'erne.	Supported
+647	The Crazy Reds blev stiftet i 1995.	Supported
+648	The Crazy Reds blev stiftet i 1998.	Refuted
+649	The Crazy Reds blev opløst i 1995.	NotEnoughInfo
+650	The Life and Death of Thomas Simeon er en dokumentarfilm instrueret af Jonas Bech.	Refuted
+651	The Life and Death of Thomas Simeon er en kortfilm instrueret af en person.	Supported
+652	The Life and Death of Thomas Simeon er en kortfilm instrueret af James Bond.	Refuted
+653	The Life and Death of Thomas Simeon er en kortfilm instrueret af en dansk mand.	NotEnoughInfo
+654	The Life and Death of Thomas Simeon er en kortfilm instrueret af Jonas Bech.	Supported
+655	The Lost Album er i Europa kendt som For The Asking.	Supported
+656	The Lost Album er i Europa kendt som Elvis' Greatest Hits.	Refuted
+657	The Secret Service er mest kendt som Kingsman.	NotEnoughInfo
+658	The Secret Service er også kendt som MI6.	Refuted
+659	The Secret Service er også kendt som Kingsman.	Supported
+660	The Secret Service er også kendt som James Bond.	Refuted
+661	The Substitute har et soundtrack skrevet af Simon Andersen.	NotEnoughInfo
+662	The Substitute har et manuskript skrevet af Simon Andersen.	Supported
+663	The Substitute har et manuskript skrevet af Simon Larsen.	Refuted
+664	To år efter dens udgivelse i 2007 fik The Wolf of Wall Street en prolog.	NotEnoughInfo
+665	Et par år efter dens udgivelse i 2007 fik The Wolf of Wall Street en efterfølger.	Supported
+666	Fem år efter dens udgivelse i 2007 fik The Wolf of Wall Street en efterfølger.	Refuted
+667	To år efter dens udgivelse i 2010 fik The Wolf of Wall Street en efterfølger.	Refuted
+668	To år efter dens udgivelse i september fik The Wolf of Wall Street en efterfølger.	Supported
+669	To år efter dens udgivelse i 2007 fik The Wolf of Wall Street en efterfølger.	Supported
+670	The Young Victoria er produceret af Dronning Margrethe.	Refuted
+671	The Young Victoria er produceret af Martin Scorsese.	Supported
+672	The Young Victoria er instrueret af Martin Scorsese.	Refuted
+673	The Young Victoria er produceret af Harvey Weinstein.	Refuted
+674	Thomas Wyss spillede midtbane for Schweiz' fodboldlandshold.	Supported
+675	"Den skotske ridderorden Tidselordenen hedder faktisk ""The Most Ancient and Most Noble Order of the Thistle""."	Supported
+676	"Den skotske ridderorden Tidselordenens oprindelige navn er ""The Most Ancient and Most Noble Order of the Thistle""."	Supported
+677	"Den britiske ridderorden Tidselordenen hedder faktisk ""The Most Ancient and Most Noble Order of the Thistle""."	Supported
