@@ -2,12 +2,10 @@
 ### CONTENTS ###
 ################
 
-This folder contains the fact verification pipeline. It contains the following files/directories:
-	- classifier-env: The virtual Python environment for the classifier 
-	- models: Finetuned BERT models
-	- classifier.py: Classifier in Python
+This folder contains the fact verification pipeline. It contains the following files:
+	- classifier.py: Classifier component in Python
 	- config.json: Configuration file for the classifier. See CONFIG section for details
-	- DocumentRetrieval.jar: Compiled document retrieval system in Java
+	- DocumentRetrieval.jar: Compiled document retrieval component in Java
 	- pipeline.bat: Batch script to run pipeline on Windows. See RUN ON WINDOWS for details
 	- pipeline.sh: Shell script to run pipeline on MacOS. See RUN ON MAC for details
 	
@@ -30,6 +28,8 @@ Relevant settings in config.json:
 ######################
 
 The pipeline can be run in two ways, either by entering a claim directly in the command line or by providing a TSV-file containing claims and labels.
+Before running the pipeline, ensure that your Python environment contains the necessary libraries listed in requirements.txt.
+Additionally, you must provide the classifier with a fine-tuned model and add the path in config.json. Our fine-tuned model is available at: TBD.
 
 Entering claims directly:
 	1. Open the command line and navigate to the current directory
