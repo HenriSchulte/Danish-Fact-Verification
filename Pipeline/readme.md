@@ -1,4 +1,4 @@
-# CONTENTS
+# Contents
 
 This folder contains the fact verification pipeline. It contains the following files:
 - classifier.py: Classifier component in Python
@@ -8,7 +8,7 @@ This folder contains the fact verification pipeline. It contains the following f
 - pipeline.sh: Shell script to run pipeline on MacOS. See RUN ON MAC for details
 
 
-# CONFIG
+# Config
 
 Relevant settings in config.json:
 - max_len: Length of input sequences (in tokens)
@@ -19,7 +19,7 @@ Relevant settings in config.json:
 - The remaining settings are only relevant to finetuning the model and are not used in the pipeline
 
 
-## RUN ON WINDOWS
+# Run on Windows
 
 The pipeline can be run in two ways, either by entering a claim directly in the command line or by providing a TSV-file containing claims and labels.
 Before running the pipeline, ensure that your Python environment contains the necessary libraries listed in requirements.txt.
@@ -42,7 +42,7 @@ Using a file of claims:
 3. Once the pipeline has predicted labels for all claims, you will be shown a confusion matrix.
   If "enable_test_export" is turned on in the config, you will also find the predictions in the "out" directory.
 
-## RUN ON MAC
+# Run on Mac
 
 The pipeline can be run in two ways, either by entering a claim directly in the command line or by providing a TSV-file containing claims and labels.
 Before running the pipeline, ensure that your Python environment contains the necessary libraries listed in requirements.txt.
