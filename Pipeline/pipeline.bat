@@ -8,10 +8,10 @@ if "%1" == "-c" (
 	set /p claim=
 	echo Pick a label [Refuted, Supported, NotEnoughInfo]:
 	set /p label=
-	java -jar DocumentRetrieval.jar "!claim!" !label!
+	java -jar EvidenceRetrieval.jar "!claim!" !label!
 )
 if "%1" == "-f" (
-	java -jar DocumentRetrieval.jar "%2" "%3" "%4"
+	java -jar EvidenceRetrieval.jar "%2" "%3" "%4"
 )
 python classifier.py
 echo Done.
