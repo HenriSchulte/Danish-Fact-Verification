@@ -33,7 +33,7 @@ The remaining settings are only relevant to fine-tuning the model and are not us
 
 The pipeline can be run in two ways, either by entering a claim directly in the command line or by providing a TSV-file containing claims and labels.
 Before running the pipeline, ensure that your Python environment contains the necessary libraries listed in requirements.txt.
-Additionally, you must provide the classifier with a fine-tuned model and add the path in config.json. Our best-performing fine-tuned model is available in the Pipeline/models directory.
+Additionally, you must provide the classifier with a fine-tuned model and add the path in config.json. Our fine-tuned model is available at: TBD.
 
 Entering claims directly:
 1. Open the command line and navigate to the current directory
@@ -41,8 +41,8 @@ Entering claims directly:
 3. Enter a claim when prompted
 4. Enter the corresponding label when prompted (Refuted, Supported or NotEnoughInfo)
 5. Once the pipeline has predicted a label, you will be shown a confusion matrix.
-  If "enable_test_export" is turned on in the config, you will also find the prediciton in the "out" directory.
-		
+  If "enable_test_export" is turned on in the config, you will also find the prediction in the "out" directory.
+
 Using a file of claims:
 1. Open the command line and navigate to the current directory
 2. Run "pipeline -f [path] [k] [l]" where the parameters are replaced by actual values:
@@ -50,11 +50,30 @@ Using a file of claims:
     - [k] is the number of articles from which to retrieve evidence
     - [l] is the number of evidence sentences to retrieve
 3. Once the pipeline has predicted labels for all claims, you will be shown a confusion matrix.
-  If "enable_test_export" is turned on in the config, you will also find the predicitons in the "out" directory.
+  If "enable_test_export" is turned on in the config, you will also find the predictions in the "out" directory.
 
 ## RUN ON MAC
 
-Don't (TBD)
+The pipeline can be run in two ways, either by entering a claim directly in the command line or by providing a TSV-file containing claims and labels.
+Before running the pipeline, ensure that your Python environment contains the necessary libraries listed in requirements.txt.
+Additionally, you must provide the classifier with a fine-tuned model and add the path in config.json. Our fine-tuned model is available at: TBD.
+
+Entering claims directly:
+1. Open the command line and navigate to the current directory
+2. Run "./pipeline -c"
+3. Enter a claim when prompted
+4. Enter the number corresponding the label when prompted (0=Refuted, 1=Supported or 2=NotEnoughInfo)
+5. Once the pipeline has predicted a label, you will be shown a confusion matrix.
+  If "enable_test_export" is turned on in the config, you will also find the prediction in the "out" directory.
+
+Using a file of claims:
+1. Open the command line and navigate to the current directory
+2. Run "./pipeline -f [path] [k] [l]" where the parameters are replaced by actual values:
+    - [path] is the path to the claims file (e.g. "../data/tsv/dev.tsv")
+    - [k] is the number of articles from which to retrieve evidence
+    - [l] is the number of evidence sentences to retrieve
+3. Once the pipeline has predicted labels for all claims, you will be shown a confusion matrix.
+  If "enable_test_export" is turned on in the config, you will also find the predictions in the "out" directory.
 
 # Source Code
 
@@ -108,5 +127,3 @@ The behaviour of our document retrieval component can be affected through its pa
 3. file path, k and l: The program will look for a TSV file at the provided path and for each claim it contains retrieve l evidence sentences from the k most relevant documents.
 
 In order to run, the program requires Apache Lucene and Apache OpenNLP. Additionally, it excepts OpenNLP models for tokenizing and POS-tagging. Danish models are available at http://opennlp.sourceforge.net/models-1.5/.
-
-
