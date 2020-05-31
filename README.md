@@ -33,7 +33,7 @@ The remaining settings are only relevant to fine-tuning the model and are not us
 
 The pipeline can be run in two ways, either by entering a claim directly in the command line or by providing a TSV-file containing claims and labels.
 Before running the pipeline, ensure that your Python environment contains the necessary libraries listed in requirements.txt.
-Additionally, you must provide the classifier with a fine-tuned model and add the path in config.json. Our fine-tuned model is available at: https://1drv.ms/u/s!ApeFSUYI66oql9JGAX25hVLTszcD_w?e=iVIYm5.
+Additionally, you must provide the classifier with a fine-tuned model and add the path in config.json. Our fine-tuned model is available [here](https://1drv.ms/u/s!ApeFSUYI66oql9JGAX25hVLTszcD_w?e=iVIYm5).
 
 Entering claims directly:
 1. Open the command line and navigate to the current directory
@@ -56,7 +56,7 @@ Using a file of claims:
 
 The pipeline can be run in two ways, either by entering a claim directly in the command line or by providing a TSV-file containing claims and labels.
 Before running the pipeline, ensure that your Python environment contains the necessary libraries listed in requirements.txt.
-Additionally, you must provide the classifier with a fine-tuned model and add the path in config.json. Our fine-tuned model is available at: https://1drv.ms/u/s!ApeFSUYI66oql9JGAX25hVLTszcD_w?e=iVIYm5.
+Additionally, you must provide the classifier with a fine-tuned model and add the path in config.json. Our fine-tuned model is available [here](https://1drv.ms/u/s!ApeFSUYI66oql9JGAX25hVLTszcD_w?e=iVIYm5).
 
 Entering claims directly:
 1. Open the command line and navigate to the current directory
