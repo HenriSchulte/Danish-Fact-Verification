@@ -18,7 +18,7 @@ This directory contains our end-to-end fact verification system, consisting of a
 - pipeline.bat: Batch script to run pipeline on Windows. See RUN ON WINDOWS for details
 - pipeline.sh: Shell script to run pipeline on MacOS. See RUN ON MAC for details
 
-## CONFIG
+## Config
 
 Relevant settings in config.json:
 - max_len: Length of input sequences (in tokens)
@@ -29,11 +29,11 @@ Relevant settings in config.json:
 
 The remaining settings are only relevant to fine-tuning the model and are not used in the pipeline.
 
-## RUN ON WINDOWS
+## Run on Windows
 
 The pipeline can be run in two ways, either by entering a claim directly in the command line or by providing a TSV-file containing claims and labels.
 Before running the pipeline, ensure that your Python environment contains the necessary libraries listed in requirements.txt.
-Additionally, you must provide the classifier with a fine-tuned model and add the path in config.json. Our fine-tuned model is available [here](https://1drv.ms/u/s!ApeFSUYI66oql9JGAX25hVLTszcD_w?e=iVIYm5).
+Additionally, you must provide the classifier with a fine-tuned model and add the path in config.json. Our fine-tuned model is available [here](https://1drv.ms/u/s!ApeFSUYI66oql9JGAX25hVLTszcD_w?e=iVIYm5). Ensure that all directories referenced in config.json exist.
 
 Entering claims directly:
 1. Open the command line and navigate to the current directory
@@ -52,11 +52,11 @@ Using a file of claims:
 3. Once the pipeline has predicted labels for all claims, you will be shown a confusion matrix.
   If "enable_test_export" is turned on in the config, you will also find the predictions in the "out" directory.
 
-## RUN ON MAC
+## Run on Mac
 
 The pipeline can be run in two ways, either by entering a claim directly in the command line or by providing a TSV-file containing claims and labels.
 Before running the pipeline, ensure that your Python environment contains the necessary libraries listed in requirements.txt.
-Additionally, you must provide the classifier with a fine-tuned model and add the path in config.json. Our fine-tuned model is available [here](https://1drv.ms/u/s!ApeFSUYI66oql9JGAX25hVLTszcD_w?e=iVIYm5).
+Additionally, you must provide the classifier with a fine-tuned model and add the path in config.json. Our fine-tuned model is available [here](https://1drv.ms/u/s!ApeFSUYI66oql9JGAX25hVLTszcD_w?e=iVIYm5). Ensure that all directories referenced in config.json exist.
 
 Entering claims directly:
 1. Open the command line and navigate to the current directory
