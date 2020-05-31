@@ -14,7 +14,7 @@ For use in the pipeline, development and test sets are also available as TSV fil
 This directory contains our end-to-end fact verification system, consisting of an evidence retrieval and a classifier component.
 - classifier.py: Classifier component in Python
 - config.json: Configuration file for the classifier. See CONFIG section for details
-- DocumentRetrieval.jar: Compiled document retrieval component in Java
+- EvidenceRetrieval.jar: Compiled document retrieval component in Java
 - pipeline.bat: Batch script to run pipeline on Windows. See RUN ON WINDOWS for details
 - pipeline.sh: Shell script to run pipeline on MacOS. See RUN ON MAC for details
 
