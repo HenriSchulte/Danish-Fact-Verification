@@ -1,0 +1,29 @@
+#!/usr/bin/env bash
+
+customclaim=${1-none}
+filename=${2-none}
+k=${3-none}
+l=${4-none}
+case "$customclaim" in
+	#case 1 
+	"-c")
+	echo "Write a claim"
+	read claim 
+	echo "Pick a label [0=Refuted, 1=Supported, 2=NotEnoughInfo]"
+	read numlabel
+	case "$numlabel" in 
+		#case 1
+		"0") label="Refuted" ;;
+		#case 2
+		"1") label="Supported" ;;
+		#case 3
+		"2") label="NotEnoughInfo";;
+	esac
+	java -jar EvidenceRetrieval.jar "$claim" $label;;
+	#case 2
+	"-f") java -jar EvidenceRetrieval.jar "$filename" $k $l ;;
+	#case 3
+	"none") java -jar EvidenceRetrieval.jar
+esac
+
+python3 classifier.py
