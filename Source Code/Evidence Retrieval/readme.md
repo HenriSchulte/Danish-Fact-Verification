@@ -5,3 +5,5 @@ The behaviour of our document retrieval component can be affected through its pa
 - File path, k and l: The program will look for a TSV file at the provided path and for each claim it contains retrieve l evidence sentences from the k most relevant documents.
 
 In order to run, the program requires Apache Lucene and Apache OpenNLP. Additionally, it excepts OpenNLP models for tokenizing and POS-tagging. Danish models are available at http://opennlp.sourceforge.net/models-1.5/.
+
+If you like good Java code: I am sorry.
